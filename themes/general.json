@@ -1,0 +1,183 @@
+{
+  "id": "general",
+  "name": "Général",
+  "emoji": "🌍",
+  "version": 2,
+  "subthemes": [
+    {
+      "id": "animaux",
+      "name": "Animaux",
+      "crossMixable": true,
+      "pairs": [
+        {
+          "civil": "Chat",
+          "imposteur": "Chien",
+          "difficulty": 7,
+          "niche": 1,
+          "_similarity": 0.4124
+        },
+        {
+          "civil": "Lion",
+          "imposteur": "Tigre",
+          "difficulty": 4,
+          "niche": 1,
+          "_similarity": 0.5949
+        },
+        {
+          "civil": "Requin",
+          "imposteur": "Dauphin",
+          "difficulty": 8,
+          "niche": 1,
+          "_similarity": 0.3067
+        }
+      ]
+    },
+    {
+      "id": "nourriture",
+      "name": "Nourriture",
+      "crossMixable": true,
+      "pairs": [
+        {
+          "civil": "Pizza",
+          "imposteur": "Quiche",
+          "difficulty": 8,
+          "niche": 1,
+          "_similarity": 0.3255
+        },
+        {
+          "civil": "Avocat",
+          "imposteur": "Concombre",
+          "difficulty": 4,
+          "niche": 1,
+          "_similarity": 0.6194
+        },
+        {
+          "civil": "Chocolat",
+          "imposteur": "Caramel",
+          "difficulty": 8,
+          "niche": 1,
+          "_similarity": 0.3316
+        },
+        {
+          "civil": "Café",
+          "imposteur": "Thé",
+          "difficulty": 7,
+          "niche": 1,
+          "_similarity": 0.3813
+        }
+      ]
+    },
+    {
+      "id": "loisirs",
+      "name": "Loisirs & Sport",
+      "crossMixable": true,
+      "pairs": [
+        {
+          "civil": "Football",
+          "imposteur": "Rugby",
+          "difficulty": 2,
+          "niche": 1,
+          "_similarity": 0.7863
+        },
+        {
+          "civil": "Cinéma",
+          "imposteur": "Théâtre",
+          "difficulty": 7,
+          "niche": 2,
+          "_similarity": 0.3939
+        },
+        {
+          "civil": "Guitare",
+          "imposteur": "Basse",
+          "difficulty": 4,
+          "niche": 2,
+          "_similarity": 0.6499
+        },
+        {
+          "civil": "Plage",
+          "imposteur": "Piscine",
+          "difficulty": 7,
+          "niche": 1,
+          "_similarity": 0.3782
+        }
+      ]
+    },
+    {
+      "id": "metiers",
+      "name": "Métiers",
+      "crossMixable": true,
+      "pairs": [
+        {
+          "civil": "Boulanger",
+          "imposteur": "Pâtissier",
+          "difficulty": 4,
+          "niche": 1,
+          "_similarity": 0.5905
+        },
+        {
+          "civil": "Médecin",
+          "imposteur": "Infirmier",
+          "difficulty": 7,
+          "niche": 1,
+          "_similarity": 0.4168
+        }
+      ]
+    },
+    {
+      "id": "imaginaire",
+      "name": "Imaginaire & Nature",
+      "crossMixable": true,
+      "pairs": [
+        {
+          "civil": "Vampire",
+          "imposteur": "Zombie",
+          "difficulty": 4,
+          "niche": 1,
+          "_similarity": 0.6252
+        },
+        {
+          "civil": "Soleil",
+          "imposteur": "Lune",
+          "difficulty": 7,
+          "niche": 1,
+          "_similarity": 0.416
+        },
+        {
+          "civil": "Rose",
+          "imposteur": "Tulipe",
+          "difficulty": 6,
+          "niche": 1,
+          "_similarity": 0.4717
+        },
+        {
+          "civil": "Neige",
+          "imposteur": "Grêle",
+          "difficulty": 4,
+          "niche": 2,
+          "_similarity": 0.6237
+        },
+        {
+          "civil": "Montagne",
+          "imposteur": "Colline",
+          "difficulty": 4,
+          "niche": 2,
+          "_similarity": 0.6005
+        },
+        {
+          "civil": "Château",
+          "imposteur": "Manoir",
+          "difficulty": 6,
+          "niche": 2,
+          "_similarity": 0.4533
+        },
+        {
+          "civil": "Avion",
+          "imposteur": "Hélicoptère",
+          "difficulty": 5,
+          "niche": 1,
+          "_similarity": 0.5235
+        }
+      ]
+    }
+  ]
+}

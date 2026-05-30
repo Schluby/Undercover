@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "themes": [
+    {
+      "id": "anime",
+      "name": "Animé",
+      "emoji": "🎌",
+      "version": 2,
+      "url": "themes/anime.json",
+      "pairs": 19
+    },
+    {
+      "id": "general",
+      "name": "Général",
+      "emoji": "🌍",
+      "version": 2,
+      "url": "themes/general.json",
+      "pairs": 20
+    },
+    {
+      "id": "league_of_legends",
+      "name": "League of Legends",
+      "emoji": "⚔️",
+      "version": 2,
+      "url": "themes/league_of_legends.json",
+      "pairs": 32
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft",
+      "emoji": "⛏️",
+      "version": 2,
+      "url": "themes/minecraft.json",
+      "pairs": 20
+    },
+    {
+      "id": "one_piece",
+      "name": "One Piece",
+      "emoji": "🏴‍☠️",
+      "version": 2,
+      "url": "themes/one_piece.json",
+      "pairs": 19
+    }
+  ]
+}
