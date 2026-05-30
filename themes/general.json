@@ -2,7 +2,7 @@
   "id": "general",
   "name": "Général",
   "emoji": "🌍",
-  "version": 2,
+  "version": 3,
   "subthemes": [
     {
       "id": "animaux",
