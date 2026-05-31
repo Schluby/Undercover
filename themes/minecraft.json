@@ -12,43 +12,43 @@
         {
           "civil": "Creeper",
           "imposteur": "Enderman",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 1,
           "_similarity": 0.3832
         },
         {
           "civil": "Zombie",
           "imposteur": "Squelette",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 1,
           "_similarity": 0.384
         },
         {
           "civil": "Cochon",
           "imposteur": "Vache",
-          "difficulty": 4,
+          "difficulty": 2,
           "niche": 1,
           "_similarity": 0.6385
         },
         {
           "civil": "Villageois",
           "imposteur": "Pillard",
-          "difficulty": 9,
+          "difficulty": 3,
           "niche": 3,
           "_similarity": 0.2784
         },
         {
           "civil": "Ender Dragon",
           "imposteur": "Wither",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.3749
         },
         {
           "civil": "Ghast",
           "imposteur": "Blaze",
-          "difficulty": 6,
-          "niche": 4,
+          "difficulty": 2,
+          "niche": 2,
           "_similarity": 0.4771
         }
       ]
@@ -61,36 +61,36 @@
         {
           "civil": "Diamant",
           "imposteur": "Émeraude",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 1,
           "_similarity": 0.3964
         },
         {
           "civil": "Épée en fer",
           "imposteur": "Épée en diamant",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.4457
         },
         {
           "civil": "Arc",
           "imposteur": "Arbalète",
-          "difficulty": 4,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.6131
         },
         {
           "civil": "Pomme dorée",
           "imposteur": "Tête de mort",
-          "difficulty": 8,
-          "niche": 4,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.3235
         },
         {
           "civil": "Trident",
           "imposteur": "Hache en netherite",
-          "difficulty": 6,
-          "niche": 5,
+          "difficulty": 2,
+          "niche": 2,
           "_similarity": 0.4394
         }
       ]
@@ -103,28 +103,28 @@
         {
           "civil": "Obsidienne",
           "imposteur": "Bedrock",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.3909
         },
         {
           "civil": "Sable",
           "imposteur": "Gravier",
-          "difficulty": 4,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.5915
         },
         {
           "civil": "Chêne",
           "imposteur": "Bouleau",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.4593
         },
         {
           "civil": "Coffre",
           "imposteur": "Tonneau",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.3745
         }
@@ -138,35 +138,35 @@
         {
           "civil": "Nether",
           "imposteur": "End",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.4389
         },
         {
           "civil": "Portail du Nether",
           "imposteur": "Portail de l'End",
-          "difficulty": 5,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.4852
         },
         {
           "civil": "Table de craft",
           "imposteur": "Four",
-          "difficulty": 8,
+          "difficulty": 3,
           "niche": 2,
           "_similarity": 0.3288
         },
         {
           "civil": "Bateau",
           "imposteur": "Minecart",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.3561
         },
         {
           "civil": "Blé",
           "imposteur": "Carotte",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.4452
         }

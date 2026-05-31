@@ -12,113 +12,113 @@
         {
           "civil": "Yasuo",
           "imposteur": "Yone",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.4545
         },
         {
           "civil": "Jinx",
           "imposteur": "Vi",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.4319
         },
         {
           "civil": "Thresh",
           "imposteur": "Blitzcrank",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.4064
         },
         {
           "civil": "Ahri",
           "imposteur": "Evelynn",
-          "difficulty": 5,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.5124
         },
         {
           "civil": "Zed",
           "imposteur": "Talon",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.4273
         },
         {
           "civil": "Darius",
           "imposteur": "Garen",
-          "difficulty": 5,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.5317
         },
         {
           "civil": "Vayne",
           "imposteur": "Caitlyn",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.4777
         },
         {
           "civil": "Katarina",
           "imposteur": "Akali",
-          "difficulty": 5,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.5141
         },
         {
           "civil": "Fizz",
           "imposteur": "Pyke",
-          "difficulty": 5,
-          "niche": 4,
+          "difficulty": 2,
+          "niche": 2,
           "_similarity": 0.4965
         },
         {
           "civil": "Tristana",
           "imposteur": "Jinx",
-          "difficulty": 9,
+          "difficulty": 3,
           "niche": 3,
           "_similarity": 0.2394
         },
         {
           "civil": "Hecarim",
           "imposteur": "Kled",
-          "difficulty": 9,
-          "niche": 5,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.2456
         },
         {
           "civil": "Soraka",
           "imposteur": "Nami",
-          "difficulty": 5,
-          "niche": 4,
+          "difficulty": 2,
+          "niche": 2,
           "_similarity": 0.5423
         },
         {
           "civil": "Rengar",
           "imposteur": "Kha'Zix",
-          "difficulty": 8,
-          "niche": 4,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.3209
         },
         {
           "civil": "Syndra",
           "imposteur": "Orianna",
-          "difficulty": 7,
-          "niche": 5,
+          "difficulty": 2,
+          "niche": 2,
           "_similarity": 0.418
         },
         {
           "civil": "Draven",
           "imposteur": "Sivir",
-          "difficulty": 4,
-          "niche": 4,
+          "difficulty": 2,
+          "niche": 2,
           "_similarity": 0.5815
         },
         {
           "civil": "Malphite",
           "imposteur": "Nautilus",
-          "difficulty": 9,
-          "niche": 4,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.2378
         }
       ]
@@ -131,50 +131,50 @@
         {
           "civil": "Ardent Censer",
           "imposteur": "Staff of Flowing Water",
-          "difficulty": 10,
-          "niche": 6,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.0775
         },
         {
           "civil": "Infinity Edge",
           "imposteur": "Kraken Slayer",
-          "difficulty": 10,
-          "niche": 4,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.0926
         },
         {
           "civil": "Trinity Force",
           "imposteur": "Iceborn Gauntlet",
-          "difficulty": 10,
-          "niche": 5,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.1659
         },
         {
           "civil": "Rabadon's Deathcap",
           "imposteur": "Shadowflame",
-          "difficulty": 8,
-          "niche": 5,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.312
         },
         {
           "civil": "Sunfire Aegis",
           "imposteur": "Warmog's Armor",
-          "difficulty": 8,
-          "niche": 5,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.3393
         },
         {
           "civil": "Bloodthirster",
           "imposteur": "Mercurial Scimitar",
-          "difficulty": 10,
-          "niche": 6,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.1976
         },
         {
           "civil": "Lich Bane",
           "imposteur": "Nashor's Tooth",
-          "difficulty": 8,
-          "niche": 5,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.2976
         }
       ]
@@ -187,29 +187,29 @@
         {
           "civil": "Demacia",
           "imposteur": "Noxus",
-          "difficulty": 6,
-          "niche": 5,
+          "difficulty": 2,
+          "niche": 2,
           "_similarity": 0.4529
         },
         {
           "civil": "Ionia",
           "imposteur": "Targon",
-          "difficulty": 7,
-          "niche": 6,
+          "difficulty": 2,
+          "niche": 2,
           "_similarity": 0.4106
         },
         {
           "civil": "Zaun",
           "imposteur": "Piltover",
-          "difficulty": 7,
-          "niche": 4,
+          "difficulty": 2,
+          "niche": 2,
           "_similarity": 0.4103
         },
         {
           "civil": "Shurima",
           "imposteur": "Bilgewater",
-          "difficulty": 9,
-          "niche": 6,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.2234
         }
       ]
@@ -222,28 +222,28 @@
         {
           "civil": "Baron Nashor",
           "imposteur": "Dragon",
-          "difficulty": 8,
+          "difficulty": 3,
           "niche": 2,
           "_similarity": 0.2943
         },
         {
           "civil": "Tour de Nexus",
           "imposteur": "Inhibiteur",
-          "difficulty": 10,
+          "difficulty": 3,
           "niche": 3,
           "_similarity": 0.1536
         },
         {
           "civil": "Jungle",
           "imposteur": "Rivière",
-          "difficulty": 8,
+          "difficulty": 3,
           "niche": 2,
           "_similarity": 0.337
         },
         {
           "civil": "ADC",
           "imposteur": "Support",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.3585
         },

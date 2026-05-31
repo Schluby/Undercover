@@ -12,28 +12,28 @@
         {
           "civil": "Naruto",
           "imposteur": "Sasuke",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 1,
           "_similarity": 0.472
         },
         {
           "civil": "Goku",
           "imposteur": "Vegeta",
-          "difficulty": 5,
+          "difficulty": 2,
           "niche": 1,
           "_similarity": 0.5299
         },
         {
           "civil": "Ichigo",
           "imposteur": "Rukia",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.412
         },
         {
           "civil": "Natsu",
           "imposteur": "Gray",
-          "difficulty": 9,
+          "difficulty": 3,
           "niche": 2,
           "_similarity": 0.2422
         },
@@ -54,35 +54,35 @@
         {
           "civil": "Eren",
           "imposteur": "Reiner",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.4483
         },
         {
           "civil": "Levi",
           "imposteur": "Erwin",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.3999
         },
         {
           "civil": "Tanjiro",
           "imposteur": "Inosuke",
-          "difficulty": 5,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.5332
         },
         {
           "civil": "Izuku Midoriya",
           "imposteur": "Katsuki Bakugo",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.4755
         },
         {
           "civil": "Asta",
           "imposteur": "Yuno",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.4624
         }
@@ -96,22 +96,22 @@
         {
           "civil": "Light Yagami",
           "imposteur": "L",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.3516
         },
         {
           "civil": "Gon",
           "imposteur": "Killua",
-          "difficulty": 7,
+          "difficulty": 2,
           "niche": 2,
           "_similarity": 0.37
         },
         {
           "civil": "Dio Brando",
           "imposteur": "Giorno Giovanna",
-          "difficulty": 5,
-          "niche": 4,
+          "difficulty": 2,
+          "niche": 2,
           "_similarity": 0.5008
         },
         {
@@ -124,7 +124,7 @@
         {
           "civil": "Kirito",
           "imposteur": "Asuna",
-          "difficulty": 6,
+          "difficulty": 2,
           "niche": 3,
           "_similarity": 0.4259
         }
@@ -138,29 +138,29 @@
         {
           "civil": "Demon Slayer",
           "imposteur": "Jujutsu Kaisen",
-          "difficulty": 9,
+          "difficulty": 3,
           "niche": 2,
           "_similarity": 0.2077
         },
         {
           "civil": "Fullmetal Alchemist",
           "imposteur": "Fairy Tail",
-          "difficulty": 10,
+          "difficulty": 3,
           "niche": 3,
           "_similarity": 0.0564
         },
         {
           "civil": "Sharingan",
           "imposteur": "Rinnegan",
-          "difficulty": 5,
-          "niche": 4,
+          "difficulty": 2,
+          "niche": 2,
           "_similarity": 0.5065
         },
         {
           "civil": "Domain Expansion",
           "imposteur": "Mode Sage",
-          "difficulty": 10,
-          "niche": 5,
+          "difficulty": 3,
+          "niche": 2,
           "_similarity": 0.106
         }
       ]
