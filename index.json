@@ -7,7 +7,15 @@
       "emoji": "🎌",
       "version": 2,
       "url": "themes/anime.json",
-      "pairs": 19
+      "pairs": 70
+    },
+    {
+      "id": "films_series",
+      "name": "Films & Séries",
+      "emoji": "🎬",
+      "version": 1,
+      "url": "themes/films_series.json",
+      "pairs": 100
     },
     {
       "id": "general",
@@ -15,7 +23,15 @@
       "emoji": "🌍",
       "version": 2,
       "url": "themes/general.json",
-      "pairs": 20
+      "pairs": 393
+    },
+    {
+      "id": "jeux_video",
+      "name": "Jeux Vidéo",
+      "emoji": "🎮",
+      "version": 1,
+      "url": "themes/jeux_video.json",
+      "pairs": 100
     },
     {
       "id": "league_of_legends",
@@ -23,7 +39,7 @@
       "emoji": "⚔️",
       "version": 2,
       "url": "themes/league_of_legends.json",
-      "pairs": 32
+      "pairs": 139
     },
     {
       "id": "minecraft",
@@ -31,7 +47,7 @@
       "emoji": "⛏️",
       "version": 2,
       "url": "themes/minecraft.json",
-      "pairs": 20
+      "pairs": 138
     },
     {
       "id": "one_piece",
@@ -39,7 +55,7 @@
       "emoji": "🏴‍☠️",
       "version": 2,
       "url": "themes/one_piece.json",
-      "pairs": 19
+      "pairs": 55
     }
   ]
 }

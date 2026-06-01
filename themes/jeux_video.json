@@ -1,0 +1,836 @@
+{
+  "id": "jeux_video",
+  "name": "Jeux Vidéo",
+  "emoji": "🎮",
+  "version": 1,
+  "subthemes": [
+    {
+      "id": "licences",
+      "name": "Licences & Jeux",
+      "crossMixable": true,
+      "pairs": [
+        {
+          "civil": "Mario",
+          "civil_en": "Mario",
+          "imposteur": "Sonic",
+          "imposteur_en": "Sonic",
+          "difficulty": 1,
+          "niche": 1
+        },
+        {
+          "civil": "Call of Duty",
+          "civil_en": "Call of Duty",
+          "imposteur": "Battlefield",
+          "imposteur_en": "Battlefield",
+          "difficulty": 1,
+          "niche": 1
+        },
+        {
+          "civil": "Fortnite",
+          "civil_en": "Fortnite",
+          "imposteur": "PUBG",
+          "imposteur_en": "PUBG",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Minecraft",
+          "civil_en": "Minecraft",
+          "imposteur": "Roblox",
+          "imposteur_en": "Roblox",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "FIFA",
+          "civil_en": "FIFA",
+          "imposteur": "PES",
+          "imposteur_en": "eFootball",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "GTA",
+          "civil_en": "GTA",
+          "imposteur": "Watch Dogs",
+          "imposteur_en": "Watch Dogs",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Zelda",
+          "civil_en": "Zelda",
+          "imposteur": "Elden Ring",
+          "imposteur_en": "Elden Ring",
+          "difficulty": 3,
+          "niche": 1
+        },
+        {
+          "civil": "Pokémon",
+          "civil_en": "Pokémon",
+          "imposteur": "Digimon",
+          "imposteur_en": "Digimon",
+          "difficulty": 1,
+          "niche": 1
+        },
+        {
+          "civil": "League of Legends",
+          "civil_en": "League of Legends",
+          "imposteur": "Dota 2",
+          "imposteur_en": "Dota 2",
+          "difficulty": 1,
+          "niche": 1
+        },
+        {
+          "civil": "Valorant",
+          "civil_en": "Valorant",
+          "imposteur": "CS2",
+          "imposteur_en": "CS2",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Overwatch",
+          "civil_en": "Overwatch",
+          "imposteur": "Apex Legends",
+          "imposteur_en": "Apex Legends",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "The Witcher",
+          "civil_en": "The Witcher",
+          "imposteur": "Skyrim",
+          "imposteur_en": "Skyrim",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Assassin's Creed",
+          "civil_en": "Assassin's Creed",
+          "imposteur": "Far Cry",
+          "imposteur_en": "Far Cry",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "God of War",
+          "civil_en": "God of War",
+          "imposteur": "Devil May Cry",
+          "imposteur_en": "Devil May Cry",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Animal Crossing",
+          "civil_en": "Animal Crossing",
+          "imposteur": "Stardew Valley",
+          "imposteur_en": "Stardew Valley",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Mario Kart",
+          "civil_en": "Mario Kart",
+          "imposteur": "Crash Team Racing",
+          "imposteur_en": "Crash Team Racing",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Dark Souls",
+          "civil_en": "Dark Souls",
+          "imposteur": "Bloodborne",
+          "imposteur_en": "Bloodborne",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Red Dead Redemption",
+          "civil_en": "Red Dead Redemption",
+          "imposteur": "GTA",
+          "imposteur_en": "GTA",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "The Last of Us",
+          "civil_en": "The Last of Us",
+          "imposteur": "Uncharted",
+          "imposteur_en": "Uncharted",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Rocket League",
+          "civil_en": "Rocket League",
+          "imposteur": "Fall Guys",
+          "imposteur_en": "Fall Guys",
+          "difficulty": 3,
+          "niche": 1
+        },
+        {
+          "civil": "Among Us",
+          "civil_en": "Among Us",
+          "imposteur": "Fall Guys",
+          "imposteur_en": "Fall Guys",
+          "difficulty": 3,
+          "niche": 1
+        },
+        {
+          "civil": "Cyberpunk 2077",
+          "civil_en": "Cyberpunk 2077",
+          "imposteur": "Deus Ex",
+          "imposteur_en": "Deus Ex",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Hollow Knight",
+          "civil_en": "Hollow Knight",
+          "imposteur": "Ori",
+          "imposteur_en": "Ori",
+          "difficulty": 3,
+          "niche": 3
+        },
+        {
+          "civil": "Tetris",
+          "civil_en": "Tetris",
+          "imposteur": "Candy Crush",
+          "imposteur_en": "Candy Crush",
+          "difficulty": 3,
+          "niche": 1
+        },
+        {
+          "civil": "Clash Royale",
+          "civil_en": "Clash Royale",
+          "imposteur": "Clash of Clans",
+          "imposteur_en": "Clash of Clans",
+          "difficulty": 1,
+          "niche": 1
+        }
+      ]
+    },
+    {
+      "id": "personnages",
+      "name": "Personnages",
+      "crossMixable": true,
+      "pairs": [
+        {
+          "civil": "Mario",
+          "civil_en": "Mario",
+          "imposteur": "Luigi",
+          "imposteur_en": "Luigi",
+          "difficulty": 1,
+          "niche": 1
+        },
+        {
+          "civil": "Link",
+          "civil_en": "Link",
+          "imposteur": "Zelda",
+          "imposteur_en": "Zelda",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Pikachu",
+          "civil_en": "Pikachu",
+          "imposteur": "Raichu",
+          "imposteur_en": "Raichu",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Kratos",
+          "civil_en": "Kratos",
+          "imposteur": "Dante",
+          "imposteur_en": "Dante",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Master Chief",
+          "civil_en": "Master Chief",
+          "imposteur": "Doom Slayer",
+          "imposteur_en": "Doom Slayer",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Lara Croft",
+          "civil_en": "Lara Croft",
+          "imposteur": "Nathan Drake",
+          "imposteur_en": "Nathan Drake",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Sonic",
+          "civil_en": "Sonic",
+          "imposteur": "Tails",
+          "imposteur_en": "Tails",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Kirby",
+          "civil_en": "Kirby",
+          "imposteur": "Yoshi",
+          "imposteur_en": "Yoshi",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Geralt",
+          "civil_en": "Geralt",
+          "imposteur": "Aragorn",
+          "imposteur_en": "Aragorn",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Bowser",
+          "civil_en": "Bowser",
+          "imposteur": "Donkey Kong",
+          "imposteur_en": "Donkey Kong",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Cloud",
+          "civil_en": "Cloud",
+          "imposteur": "Sephiroth",
+          "imposteur_en": "Sephiroth",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Ezio",
+          "civil_en": "Ezio",
+          "imposteur": "Altaïr",
+          "imposteur_en": "Altaïr",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Steve",
+          "civil_en": "Steve",
+          "imposteur": "Alex",
+          "imposteur_en": "Alex",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Ryu",
+          "civil_en": "Ryu",
+          "imposteur": "Ken",
+          "imposteur_en": "Ken",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Scorpion",
+          "civil_en": "Scorpion",
+          "imposteur": "Sub-Zero",
+          "imposteur_en": "Sub-Zero",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Crash Bandicoot",
+          "civil_en": "Crash Bandicoot",
+          "imposteur": "Spyro",
+          "imposteur_en": "Spyro",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Pac-Man",
+          "civil_en": "Pac-Man",
+          "imposteur": "Bomberman",
+          "imposteur_en": "Bomberman",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Solid Snake",
+          "civil_en": "Solid Snake",
+          "imposteur": "Sam Fisher",
+          "imposteur_en": "Sam Fisher",
+          "difficulty": 3,
+          "niche": 3
+        },
+        {
+          "civil": "Doomguy",
+          "civil_en": "Doomguy",
+          "imposteur": "Duke Nukem",
+          "imposteur_en": "Duke Nukem",
+          "difficulty": 3,
+          "niche": 3
+        },
+        {
+          "civil": "Ganondorf",
+          "civil_en": "Ganondorf",
+          "imposteur": "Bowser",
+          "imposteur_en": "Bowser",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Aloy",
+          "civil_en": "Aloy",
+          "imposteur": "Lara Croft",
+          "imposteur_en": "Lara Croft",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Ellie",
+          "civil_en": "Ellie",
+          "imposteur": "Clementine",
+          "imposteur_en": "Clementine",
+          "difficulty": 3,
+          "niche": 3
+        },
+        {
+          "civil": "2B",
+          "civil_en": "2B",
+          "imposteur": "A2",
+          "imposteur_en": "A2",
+          "difficulty": 3,
+          "niche": 3
+        },
+        {
+          "civil": "Arthur Morgan",
+          "civil_en": "Arthur Morgan",
+          "imposteur": "John Marston",
+          "imposteur_en": "John Marston",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Jin Sakai",
+          "civil_en": "Jin Sakai",
+          "imposteur": "Ezio",
+          "imposteur_en": "Ezio",
+          "difficulty": 3,
+          "niche": 3
+        }
+      ]
+    },
+    {
+      "id": "consoles",
+      "name": "Consoles & Matériel",
+      "crossMixable": true,
+      "pairs": [
+        {
+          "civil": "PlayStation",
+          "civil_en": "PlayStation",
+          "imposteur": "Xbox",
+          "imposteur_en": "Xbox",
+          "difficulty": 1,
+          "niche": 1
+        },
+        {
+          "civil": "Nintendo Switch",
+          "civil_en": "Nintendo Switch",
+          "imposteur": "Steam Deck",
+          "imposteur_en": "Steam Deck",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "PS5",
+          "civil_en": "PS5",
+          "imposteur": "Xbox Series X",
+          "imposteur_en": "Xbox Series X",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Game Boy",
+          "civil_en": "Game Boy",
+          "imposteur": "PSP",
+          "imposteur_en": "PSP",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Manette",
+          "civil_en": "Controller",
+          "imposteur": "Clavier",
+          "imposteur_en": "Keyboard",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Nintendo 64",
+          "civil_en": "Nintendo 64",
+          "imposteur": "GameCube",
+          "imposteur_en": "GameCube",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Wii",
+          "civil_en": "Wii",
+          "imposteur": "Kinect",
+          "imposteur_en": "Kinect",
+          "difficulty": 3,
+          "niche": 1
+        },
+        {
+          "civil": "Steam",
+          "civil_en": "Steam",
+          "imposteur": "Epic Games",
+          "imposteur_en": "Epic Games",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Casque VR",
+          "civil_en": "VR Headset",
+          "imposteur": "Lunettes 3D",
+          "imposteur_en": "3D Glasses",
+          "difficulty": 3,
+          "niche": 1
+        },
+        {
+          "civil": "Souris gaming",
+          "civil_en": "Gaming Mouse",
+          "imposteur": "Trackpad",
+          "imposteur_en": "Trackpad",
+          "difficulty": 3,
+          "niche": 1
+        },
+        {
+          "civil": "Joystick",
+          "civil_en": "Joystick",
+          "imposteur": "Volant",
+          "imposteur_en": "Steering Wheel",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Sega Mega Drive",
+          "civil_en": "Sega Genesis",
+          "imposteur": "Super Nintendo",
+          "imposteur_en": "Super Nintendo",
+          "difficulty": 2,
+          "niche": 3
+        },
+        {
+          "civil": "Dreamcast",
+          "civil_en": "Dreamcast",
+          "imposteur": "Saturn",
+          "imposteur_en": "Saturn",
+          "difficulty": 3,
+          "niche": 3
+        },
+        {
+          "civil": "Twitch",
+          "civil_en": "Twitch",
+          "imposteur": "YouTube Gaming",
+          "imposteur_en": "YouTube Gaming",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Discord",
+          "civil_en": "Discord",
+          "imposteur": "TeamSpeak",
+          "imposteur_en": "TeamSpeak",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Game Boy Advance",
+          "civil_en": "Game Boy Advance",
+          "imposteur": "Nintendo DS",
+          "imposteur_en": "Nintendo DS",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Oculus Quest",
+          "civil_en": "Oculus Quest",
+          "imposteur": "PlayStation VR",
+          "imposteur_en": "PlayStation VR",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Carte graphique",
+          "civil_en": "Graphics Card",
+          "imposteur": "Processeur",
+          "imposteur_en": "CPU",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Arcade",
+          "civil_en": "Arcade",
+          "imposteur": "Flipper",
+          "imposteur_en": "Pinball",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Atari",
+          "civil_en": "Atari",
+          "imposteur": "Commodore",
+          "imposteur_en": "Commodore",
+          "difficulty": 3,
+          "niche": 3
+        },
+        {
+          "civil": "Cartouche",
+          "civil_en": "Cartridge",
+          "imposteur": "CD-ROM",
+          "imposteur_en": "CD-ROM",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Écran gaming",
+          "civil_en": "Gaming Monitor",
+          "imposteur": "Télévision",
+          "imposteur_en": "Television",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "RTX",
+          "civil_en": "RTX",
+          "imposteur": "Radeon",
+          "imposteur_en": "Radeon",
+          "difficulty": 3,
+          "niche": 3
+        },
+        {
+          "civil": "Joy-Con",
+          "civil_en": "Joy-Con",
+          "imposteur": "DualSense",
+          "imposteur_en": "DualSense",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "PC Gamer",
+          "civil_en": "Gaming PC",
+          "imposteur": "Console",
+          "imposteur_en": "Console",
+          "difficulty": 2,
+          "niche": 1
+        }
+      ]
+    },
+    {
+      "id": "termes",
+      "name": "Termes & Gameplay",
+      "crossMixable": false,
+      "pairs": [
+        {
+          "civil": "Boss",
+          "civil_en": "Boss",
+          "imposteur": "Mob",
+          "imposteur_en": "Mob",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Checkpoint",
+          "civil_en": "Checkpoint",
+          "imposteur": "Spawn",
+          "imposteur_en": "Spawn",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Loot",
+          "civil_en": "Loot",
+          "imposteur": "Butin",
+          "imposteur_en": "Drop",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Niveau",
+          "civil_en": "Level",
+          "imposteur": "Map",
+          "imposteur_en": "Map",
+          "difficulty": 3,
+          "niche": 1
+        },
+        {
+          "civil": "Speedrun",
+          "civil_en": "Speedrun",
+          "imposteur": "No Hit",
+          "imposteur_en": "No Hit Run",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Game Over",
+          "civil_en": "Game Over",
+          "imposteur": "Victory Royale",
+          "imposteur_en": "Victory Royale",
+          "difficulty": 3,
+          "niche": 1
+        },
+        {
+          "civil": "DLC",
+          "civil_en": "DLC",
+          "imposteur": "Mod",
+          "imposteur_en": "Mod",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Frag",
+          "civil_en": "Frag",
+          "imposteur": "Kill",
+          "imposteur_en": "Kill",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Respawn",
+          "civil_en": "Respawn",
+          "imposteur": "Reset",
+          "imposteur_en": "Reset",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Combo",
+          "civil_en": "Combo",
+          "imposteur": "Counter",
+          "imposteur_en": "Counter",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Easter Egg",
+          "civil_en": "Easter Egg",
+          "imposteur": "Glitch",
+          "imposteur_en": "Glitch",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Quête",
+          "civil_en": "Quest",
+          "imposteur": "Mission",
+          "imposteur_en": "Mission",
+          "difficulty": 3,
+          "niche": 1
+        },
+        {
+          "civil": "XP",
+          "civil_en": "XP",
+          "imposteur": "Or",
+          "imposteur_en": "Gold",
+          "difficulty": 3,
+          "niche": 1
+        },
+        {
+          "civil": "Lag",
+          "civil_en": "Lag",
+          "imposteur": "FPS Drop",
+          "imposteur_en": "FPS Drop",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "GG",
+          "civil_en": "GG",
+          "imposteur": "EZ",
+          "imposteur_en": "EZ",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Hitbox",
+          "civil_en": "Hitbox",
+          "imposteur": "Hurtbox",
+          "imposteur_en": "Hurtbox",
+          "difficulty": 2,
+          "niche": 3
+        },
+        {
+          "civil": "Buff",
+          "civil_en": "Buff",
+          "imposteur": "Nerf",
+          "imposteur_en": "Nerf",
+          "difficulty": 1,
+          "niche": 2
+        },
+        {
+          "civil": "Cooldown",
+          "civil_en": "Cooldown",
+          "imposteur": "Recharge",
+          "imposteur_en": "Reload",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Sandbox",
+          "civil_en": "Sandbox",
+          "imposteur": "Open World",
+          "imposteur_en": "Open World",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "PvP",
+          "civil_en": "PvP",
+          "imposteur": "PvE",
+          "imposteur_en": "PvE",
+          "difficulty": 1,
+          "niche": 2
+        },
+        {
+          "civil": "Skin",
+          "civil_en": "Skin",
+          "imposteur": "Emote",
+          "imposteur_en": "Emote",
+          "difficulty": 2,
+          "niche": 1
+        },
+        {
+          "civil": "Camp",
+          "civil_en": "Camping",
+          "imposteur": "Rush",
+          "imposteur_en": "Rush",
+          "difficulty": 2,
+          "niche": 2
+        },
+        {
+          "civil": "Hardcore",
+          "civil_en": "Hardcore",
+          "imposteur": "Permadeath",
+          "imposteur_en": "Permadeath",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Matchmaking",
+          "civil_en": "Matchmaking",
+          "imposteur": "Lobby",
+          "imposteur_en": "Lobby",
+          "difficulty": 3,
+          "niche": 2
+        },
+        {
+          "civil": "Tutoriel",
+          "civil_en": "Tutorial",
+          "imposteur": "Didacticiel",
+          "imposteur_en": "Walkthrough",
+          "difficulty": 3,
+          "niche": 2
+        }
+      ]
+    }
+  ]
+}
