@@ -11,123 +11,123 @@
       "pairs": [
         {
           "civil": "Naruto",
-          "civil_en": "Naruto",
           "imposteur": "One Piece",
-          "imposteur_en": "One Piece",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Naruto",
+          "imposteur_en": "One Piece"
         },
         {
           "civil": "L'Attaque des Titans",
-          "civil_en": "Attack on Titan",
           "imposteur": "Death Note",
-          "imposteur_en": "Death Note",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Attack on Titan",
+          "imposteur_en": "Death Note"
         },
         {
           "civil": "Demon Slayer",
-          "civil_en": "Demon Slayer",
           "imposteur": "Jujutsu Kaisen",
-          "imposteur_en": "Jujutsu Kaisen",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Demon Slayer",
+          "imposteur_en": "Jujutsu Kaisen"
         },
         {
           "civil": "My Hero Academia",
-          "civil_en": "My Hero Academia",
           "imposteur": "Black Clover",
-          "imposteur_en": "Black Clover",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "My Hero Academia",
+          "imposteur_en": "Black Clover"
         },
         {
           "civil": "Hunter x Hunter",
-          "civil_en": "Hunter x Hunter",
           "imposteur": "Fullmetal Alchemist",
-          "imposteur_en": "Fullmetal Alchemist",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Hunter x Hunter",
+          "imposteur_en": "Fullmetal Alchemist"
         },
         {
           "civil": "Bleach",
-          "civil_en": "Bleach",
           "imposteur": "Fairy Tail",
-          "imposteur_en": "Fairy Tail",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Bleach",
+          "imposteur_en": "Fairy Tail"
         },
         {
           "civil": "Neon Genesis Evangelion",
-          "civil_en": "Neon Genesis Evangelion",
           "imposteur": "Cowboy Bebop",
-          "imposteur_en": "Cowboy Bebop",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Neon Genesis Evangelion",
+          "imposteur_en": "Cowboy Bebop"
         },
         {
           "civil": "Code Geass",
-          "civil_en": "Code Geass",
           "imposteur": "Steins",
-          "imposteur_en": "Gate",
           "difficulty": 5,
-          "niche": 5
+          "niche": 5,
+          "civil_en": "Code Geass",
+          "imposteur_en": "Gate"
         },
         {
           "civil": "Monster",
-          "civil_en": "Monster",
           "imposteur": "Pluto",
-          "imposteur_en": "Pluto",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Monster",
+          "imposteur_en": "Pluto"
         },
         {
           "civil": "Chainsaw Man",
-          "civil_en": "Chainsaw Man",
           "imposteur": "Hell's Paradise",
-          "imposteur_en": "Hell's Paradise",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Chainsaw Man",
+          "imposteur_en": "Hell's Paradise"
         },
         {
           "civil": "Vinland Saga",
-          "civil_en": "Vinland Saga",
           "imposteur": "Kingdom",
-          "imposteur_en": "Kingdom",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Vinland Saga",
+          "imposteur_en": "Kingdom"
         },
         {
           "civil": "Sousou no Frieren",
-          "civil_en": "Frieren: Beyond Journey's End",
           "imposteur": "Dungeon Meshi",
-          "imposteur_en": "Delicious in Dungeon",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Frieren: Beyond Journey's End",
+          "imposteur_en": "Delicious in Dungeon"
         },
         {
           "civil": "Gurren Lagann",
-          "civil_en": "Gurren Lagann",
           "imposteur": "Kill la Kill",
-          "imposteur_en": "Kill la Kill",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Gurren Lagann",
+          "imposteur_en": "Kill la Kill"
         },
         {
           "civil": "Serial Experiments Lain",
-          "civil_en": "Serial Experiments Lain",
           "imposteur": "Ergo Proxy",
-          "imposteur_en": "Ergo Proxy",
           "difficulty": 3,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Serial Experiments Lain",
+          "imposteur_en": "Ergo Proxy"
         },
         {
           "civil": "Made in Abyss",
-          "civil_en": "Made in Abyss",
           "imposteur": "The Promised Neverland",
-          "imposteur_en": "The Promised Neverland",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Made in Abyss",
+          "imposteur_en": "The Promised Neverland"
         }
       ]
     },
@@ -138,211 +138,211 @@
       "pairs": [
         {
           "civil": "Luffy",
-          "civil_en": "Luffy",
           "imposteur": "Zoro",
-          "imposteur_en": "Zoro",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Luffy",
+          "imposteur_en": "Zoro"
         },
         {
           "civil": "Goku",
-          "civil_en": "Goku",
           "imposteur": "Vegeta",
-          "imposteur_en": "Vegeta",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Goku",
+          "imposteur_en": "Vegeta"
         },
         {
           "civil": "Naruto",
-          "civil_en": "Naruto",
           "imposteur": "Sasuke",
-          "imposteur_en": "Sasuke",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Naruto",
+          "imposteur_en": "Sasuke"
         },
         {
           "civil": "Eren Jaeger",
-          "civil_en": "Eren Jaeger",
           "imposteur": "Levi Ackerman",
-          "imposteur_en": "Levi Ackerman",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Eren Jaeger",
+          "imposteur_en": "Levi Ackerman"
         },
         {
           "civil": "Guts",
-          "civil_en": "Guts",
           "imposteur": "Griffith",
-          "imposteur_en": "Griffith",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Guts",
+          "imposteur_en": "Griffith"
         },
         {
           "civil": "Saitama",
-          "civil_en": "Saitama",
           "imposteur": "Genos",
-          "imposteur_en": "Genos",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Saitama",
+          "imposteur_en": "Genos"
         },
         {
           "civil": "GoJo Satoru",
-          "civil_en": "Satoru Gojo",
           "imposteur": "Sukuna",
-          "imposteur_en": "Sukuna",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Satoru Gojo",
+          "imposteur_en": "Sukuna"
         },
         {
           "civil": "Light Yagami",
-          "civil_en": "Light Yagami",
           "imposteur": "L",
-          "imposteur_en": "L",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Light Yagami",
+          "imposteur_en": "L"
         },
         {
           "civil": "Edward Elric",
-          "civil_en": "Edward Elric",
           "imposteur": "Roy Mustang",
-          "imposteur_en": "Roy Mustang",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Edward Elric",
+          "imposteur_en": "Roy Mustang"
         },
         {
           "civil": "Killua",
-          "civil_en": "Killua",
           "imposteur": "Gon",
-          "imposteur_en": "Gon",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Killua",
+          "imposteur_en": "Gon"
         },
         {
           "civil": "Shinji Ikari",
-          "civil_en": "Shinji Ikari",
           "imposteur": "Asuka Langley",
-          "imposteur_en": "Asuka Langley",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Shinji Ikari",
+          "imposteur_en": "Asuka Langley"
         },
         {
           "civil": "Lelouch lamperouge",
-          "civil_en": "Lelouch Lamperouge",
           "imposteur": "Suzaku Kururugi",
-          "imposteur_en": "Suzaku Kururugi",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Lelouch Lamperouge",
+          "imposteur_en": "Suzaku Kururugi"
         },
         {
           "civil": "Johan Liebert",
-          "civil_en": "Johan Liebert",
           "imposteur": "Dr. Kenzo Tenma",
-          "imposteur_en": "Dr. Kenzo Tenma",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Johan Liebert",
+          "imposteur_en": "Dr. Kenzo Tenma"
         },
         {
           "civil": "Askeladd",
-          "civil_en": "Askeladd",
           "imposteur": "Thorfinn",
-          "imposteur_en": "Thorfinn",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Askeladd",
+          "imposteur_en": "Thorfinn"
         },
         {
           "civil": "Reigen Arataka",
-          "civil_en": "Reigen Arataka",
           "imposteur": "Mob",
-          "imposteur_en": "Mob",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Reigen Arataka",
+          "imposteur_en": "Mob"
         },
         {
           "civil": "Makima",
-          "civil_en": "Makima",
           "imposteur": "Denji",
-          "imposteur_en": "Denji",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Makima",
+          "imposteur_en": "Denji"
         },
         {
           "civil": "Frieren",
-          "civil_en": "Frieren",
           "imposteur": "Himmel",
-          "imposteur_en": "Himmel",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Frieren",
+          "imposteur_en": "Himmel"
         },
         {
           "civil": "Mugen",
-          "civil_en": "Mugen",
           "imposteur": "Jin",
-          "imposteur_en": "Jin",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Mugen",
+          "imposteur_en": "Jin"
         },
         {
           "civil": "L'Akatsuki",
-          "civil_en": "Akatsuki",
           "imposteur": "L'Espada",
-          "imposteur_en": "Espada",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Akatsuki",
+          "imposteur_en": "Espada"
         },
         {
           "civil": "La Brigade Fantôme",
-          "civil_en": "Phantom Troupe",
           "imposteur": "Les Chimera Ants",
-          "imposteur_en": "Chimera Ants",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Phantom Troupe",
+          "imposteur_en": "Chimera Ants"
         },
         {
           "civil": "Sosuke Aizen",
-          "civil_en": "Sosuke Aizen",
           "imposteur": "Madara Uchiha",
-          "imposteur_en": "Madara Uchiha",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Sosuke Aizen",
+          "imposteur_en": "Madara Uchiha"
         },
         {
           "civil": "Freezer",
-          "civil_en": "Frieza",
           "imposteur": "Cell",
-          "imposteur_en": "Cell",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Frieza",
+          "imposteur_en": "Cell"
         },
         {
           "civil": "Donquixote Doflamingo",
-          "civil_en": "Donquixote Doflamingo",
           "imposteur": "Crocodile",
-          "imposteur_en": "Crocodile",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Donquixote Doflamingo",
+          "imposteur_en": "Crocodile"
         },
         {
           "civil": "L'Armée du Ruban Rouge",
-          "civil_en": "Red Ribbon Army",
           "imposteur": "L'Équipage de Kaido",
-          "imposteur_en": "Beast Pirates",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Red Ribbon Army",
+          "imposteur_en": "Beast Pirates"
         },
         {
           "civil": "L'Association des Monstres",
-          "civil_en": "Monster Association",
           "imposteur": "Garou",
-          "imposteur_en": "Garou",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Monster Association",
+          "imposteur_en": "Garou"
         },
         {
           "civil": "Mahito",
-          "civil_en": "Mahito",
           "imposteur": "Kenjaku",
-          "imposteur_en": "Kenjaku",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Mahito",
+          "imposteur_en": "Kenjaku"
         }
       ]
     },
@@ -353,99 +353,99 @@
       "pairs": [
         {
           "civil": "Studio Ghibli",
-          "civil_en": "Studio Ghibli",
           "imposteur": "Toei Animation",
-          "imposteur_en": "Toei Animation",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Studio Ghibli",
+          "imposteur_en": "Toei Animation"
         },
         {
           "civil": "MAPPA",
-          "civil_en": "MAPPA",
           "imposteur": "ufotable",
-          "imposteur_en": "ufotable",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "MAPPA",
+          "imposteur_en": "ufotable"
         },
         {
           "civil": "Madhouse",
-          "civil_en": "Madhouse",
           "imposteur": "Bones",
-          "imposteur_en": "Bones",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Madhouse",
+          "imposteur_en": "Bones"
         },
         {
           "civil": "Wit Studio",
-          "civil_en": "Wit Studio",
           "imposteur": "CloverWorks",
-          "imposteur_en": "CloverWorks",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Wit Studio",
+          "imposteur_en": "CloverWorks"
         },
         {
           "civil": "Kyoto Animation",
-          "civil_en": "Kyoto Animation",
           "imposteur": "Shaft",
-          "imposteur_en": "Shaft",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Kyoto Animation",
+          "imposteur_en": "Shaft"
         },
         {
           "civil": "Studio Trigger",
-          "civil_en": "Studio Trigger",
           "imposteur": "Gainax",
-          "imposteur_en": "Gainax",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Studio Trigger",
+          "imposteur_en": "Gainax"
         },
         {
           "civil": "A-1 Pictures",
-          "civil_en": "A-1 Pictures",
           "imposteur": "Production I.G",
-          "imposteur_en": "Production I.G",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "A-1 Pictures",
+          "imposteur_en": "Production I.G"
         },
         {
           "civil": "Sunrise",
-          "civil_en": "Sunrise",
           "imposteur": "Mecha",
-          "imposteur_en": "Bandai Namco Filmworks",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Sunrise",
+          "imposteur_en": "Bandai Namco Filmworks"
         },
         {
           "civil": "Pierrot",
-          "civil_en": "Studio Pierrot",
           "imposteur": "TMS Entertainment",
-          "imposteur_en": "TMS Entertainment",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Studio Pierrot",
+          "imposteur_en": "TMS Entertainment"
         },
         {
           "civil": "David Production",
-          "civil_en": "David Production",
           "imposteur": "Studio J.C.Staff",
-          "imposteur_en": "J.C.Staff",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "David Production",
+          "imposteur_en": "J.C.Staff"
         },
         {
           "civil": "Studio Bind",
-          "civil_en": "Studio Bind",
           "imposteur": "White Fox",
-          "imposteur_en": "White Fox",
           "difficulty": 3,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Studio Bind",
+          "imposteur_en": "White Fox"
         },
         {
           "civil": "Science SARU",
-          "civil_en": "Science SARU",
           "imposteur": "Studio Colorido",
-          "imposteur_en": "Studio Colorido",
           "difficulty": 3,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Science SARU",
+          "imposteur_en": "Studio Colorido"
         }
       ]
     },
@@ -456,59 +456,59 @@
       "pairs": [
         {
           "civil": "Kamehameha",
-          "civil_en": "Kamehameha",
           "imposteur": "Rasengan",
-          "imposteur_en": "Rasengan",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Kamehameha",
+          "imposteur_en": "Rasengan"
         },
         {
           "civil": "Gomu Gomu no Mi",
-          "civil_en": "Gum-Gum Fruit",
           "imposteur": "Mera Mera no Mi",
-          "imposteur_en": "Flame-Flame Fruit",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Gum-Gum Fruit",
+          "imposteur_en": "Flame-Flame Fruit"
         },
         {
           "civil": "Getsuga Tensho",
-          "civil_en": "Getsuga Tensho",
           "imposteur": "Chidori",
-          "imposteur_en": "Chidori",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Getsuga Tensho",
+          "imposteur_en": "Chidori"
         },
         {
           "civil": "Expansion du Territoire",
-          "civil_en": "Domain Expansion",
           "imposteur": "Sort Inné",
-          "imposteur_en": "Innate Technique",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Domain Expansion",
+          "imposteur_en": "Innate Technique"
         },
         {
           "civil": "Haki des Rois",
-          "civil_en": "Conqueror's Haki",
           "imposteur": "Haki de l'Armement",
-          "imposteur_en": "Armament Haki",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Conqueror's Haki",
+          "imposteur_en": "Armament Haki"
         },
         {
           "civil": "Une lueur d'espoir",
-          "civil_en": "Detroit Smash",
           "imposteur": "United States of Smash",
-          "imposteur_en": "United States of Smash",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Detroit Smash",
+          "imposteur_en": "United States of Smash"
         },
         {
           "civil": "Nen",
-          "civil_en": "Nen",
           "imposteur": "Alchimie",
-          "imposteur_en": "Alchemy",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Nen",
+          "imposteur_en": "Alchemy"
         }
       ]
     },
@@ -519,83 +519,83 @@
       "pairs": [
         {
           "civil": "Examen Chunin",
-          "civil_en": "Chunin Exams",
           "imposteur": "Arc Sauvetage de Sasuke",
-          "imposteur_en": "Sasuke Retrieval Arc",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Chunin Exams",
+          "imposteur_en": "Sasuke Retrieval Arc"
         },
         {
           "civil": "Arc Marineford",
-          "civil_en": "Marineford Arc",
           "imposteur": "Arc Enies Lobby",
-          "imposteur_en": "Enies Lobby Arc",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Marineford Arc",
+          "imposteur_en": "Enies Lobby Arc"
         },
         {
           "civil": "Tournoi des Arts Martiaux",
-          "civil_en": "World Martial Arts Tournament",
           "imposteur": "Arc Namek",
-          "imposteur_en": "Namek Arc",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "World Martial Arts Tournament",
+          "imposteur_en": "Namek Arc"
         },
         {
           "civil": "Arc de la Fourmi Chimère",
-          "civil_en": "Chimera Ant Arc",
           "imposteur": "Arc des Élections",
-          "imposteur_en": "13th Hunter Chairman Election arc",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Chimera Ant Arc",
+          "imposteur_en": "13th Hunter Chairman Election arc"
         },
         {
           "civil": "Arc de la Soul Society",
-          "civil_en": "Soul Society Arc",
           "imposteur": "Arc de la Guerre Sanglante de Mille Ans",
-          "imposteur_en": "Thousand-Year Blood War Arc",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Soul Society Arc",
+          "imposteur_en": "Thousand-Year Blood War Arc"
         },
         {
           "civil": "Arc du Drame de Shibuya",
-          "civil_en": "Shibuya Incident Arc",
           "imposteur": "Arc du Tournoi de la Traque",
-          "imposteur_en": "Culling Game Arc",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Shibuya Incident Arc",
+          "imposteur_en": "Culling Game Arc"
         },
         {
           "civil": "Le Grand Tournoi Magique",
-          "civil_en": "Grand Magic Games",
           "imposteur": "Arc Tartaros",
-          "imposteur_en": "Tartaros Arc",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Grand Magic Games",
+          "imposteur_en": "Tartaros Arc"
         },
         {
           "civil": "Arc du Train de l'Infini",
-          "civil_en": "Mugen Train Arc",
           "imposteur": "Arc du Quartier des Plaisirs",
-          "imposteur_en": "Entertainment District Arc",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Mugen Train Arc",
+          "imposteur_en": "Entertainment District Arc"
         },
         {
           "civil": "Le Troisième Impact",
-          "civil_en": "Third Impact",
           "imposteur": "L'Éclipse",
-          "imposteur_en": "The Eclipse",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Third Impact",
+          "imposteur_en": "The Eclipse"
         },
         {
           "civil": "Arc de Shiganshina",
-          "civil_en": "Return to Shiganshina Arc",
           "imposteur": "Arc du Grand Terrassement",
-          "imposteur_en": "The Rumbling Arc",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Return to Shiganshina Arc",
+          "imposteur_en": "The Rumbling Arc"
         }
       ]
     }

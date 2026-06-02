@@ -10,6 +10,14 @@
       "pairs": 70
     },
     {
+      "id": "dragon_ball",
+      "name": "Dragon Ball",
+      "emoji": "🐉",
+      "version": 1,
+      "url": "themes/dragon_ball.json",
+      "pairs": 34
+    },
+    {
       "id": "films_series",
       "name": "Films & Séries",
       "emoji": "🎬",
@@ -24,6 +32,14 @@
       "version": 2,
       "url": "themes/general.json",
       "pairs": 393
+    },
+    {
+      "id": "harry_potter",
+      "name": "Harry Potter",
+      "emoji": "🧙",
+      "version": 1,
+      "url": "themes/harry_potter.json",
+      "pairs": 42
     },
     {
       "id": "jeux_video",
@@ -42,6 +58,14 @@
       "pairs": 139
     },
     {
+      "id": "lotr",
+      "name": "Seigneur des Anneaux",
+      "emoji": "💍",
+      "version": 1,
+      "url": "themes/lotr.json",
+      "pairs": 50
+    },
+    {
       "id": "minecraft",
       "name": "Minecraft",
       "emoji": "⛏️",
@@ -50,12 +74,28 @@
       "pairs": 138
     },
     {
+      "id": "naruto",
+      "name": "Naruto",
+      "emoji": "🍥",
+      "version": 1,
+      "url": "themes/naruto.json",
+      "pairs": 35
+    },
+    {
       "id": "one_piece",
       "name": "One Piece",
       "emoji": "🏴‍☠️",
       "version": 2,
       "url": "themes/one_piece.json",
-      "pairs": 55
+      "pairs": 102
+    },
+    {
+      "id": "pokemon",
+      "name": "Pokémon",
+      "emoji": "⚡",
+      "version": 1,
+      "url": "themes/pokemon.json",
+      "pairs": 35
     }
   ]
 }

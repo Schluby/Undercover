@@ -11,243 +11,243 @@
       "pairs": [
         {
           "civil": "Aatrox",
-          "civil_en": "Aatrox",
           "imposteur": "Mordekaiser",
-          "imposteur_en": "Mordekaiser",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Aatrox",
+          "imposteur_en": "Mordekaiser"
         },
         {
           "civil": "Azir",
-          "civil_en": "Azir",
           "imposteur": "Xerath",
-          "imposteur_en": "Xerath",
           "difficulty": 3,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Azir",
+          "imposteur_en": "Xerath"
         },
         {
           "civil": "Nasus",
-          "civil_en": "Nasus",
           "imposteur": "Renekton",
-          "imposteur_en": "Renekton",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Nasus",
+          "imposteur_en": "Renekton"
         },
         {
           "civil": "Leona",
-          "civil_en": "Leona",
           "imposteur": "Diana",
-          "imposteur_en": "Diana",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Leona",
+          "imposteur_en": "Diana"
         },
         {
           "civil": "Shen",
-          "civil_en": "Shen",
           "imposteur": "Zed",
-          "imposteur_en": "Zed",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Shen",
+          "imposteur_en": "Zed"
         },
         {
           "civil": "Viego",
-          "civil_en": "Viego",
           "imposteur": "Thresh",
-          "imposteur_en": "Thresh",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Viego",
+          "imposteur_en": "Thresh"
         },
         {
           "civil": "Ruined King",
-          "civil_en": "Ruined King",
           "imposteur": "The Ruination",
-          "imposteur_en": "The Ruination",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Ruined King",
+          "imposteur_en": "The Ruination"
         },
         {
           "civil": "Ryze",
-          "civil_en": "Ryze",
           "imposteur": "Brand",
-          "imposteur_en": "Brand",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Ryze",
+          "imposteur_en": "Brand"
         },
         {
           "civil": "Caitlyn",
-          "civil_en": "Caitlyn",
           "imposteur": "Jinx",
-          "imposteur_en": "Jinx",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Caitlyn",
+          "imposteur_en": "Jinx"
         },
         {
           "civil": "Ashe",
-          "civil_en": "Ashe",
           "imposteur": "Sejuani",
-          "imposteur_en": "Sejuani",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Ashe",
+          "imposteur_en": "Sejuani"
         },
         {
           "civil": "Kayn",
-          "civil_en": "Kayn",
           "imposteur": "Rhaast",
-          "imposteur_en": "Rhaast",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Kayn",
+          "imposteur_en": "Rhaast"
         },
         {
           "civil": "Lucian",
-          "civil_en": "Lucian",
           "imposteur": "Thresh",
-          "imposteur_en": "Thresh",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Lucian",
+          "imposteur_en": "Thresh"
         },
         {
           "civil": "Senna",
-          "civil_en": "Senna",
           "imposteur": "Hecarim",
-          "imposteur_en": "Hecarim",
           "difficulty": 2,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Senna",
+          "imposteur_en": "Hecarim"
         },
         {
           "civil": "Kha'Zix",
-          "civil_en": "Kha'Zix",
           "imposteur": "Rengar",
-          "imposteur_en": "Rengar",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Kha'Zix",
+          "imposteur_en": "Rengar"
         },
         {
           "civil": "Ornn",
-          "civil_en": "Ornn",
           "imposteur": "Volibear",
-          "imposteur_en": "Volibear",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Ornn",
+          "imposteur_en": "Volibear"
         },
         {
           "civil": "Anivia",
-          "civil_en": "Anivia",
           "imposteur": "Lissandra",
-          "imposteur_en": "Lissandra",
           "difficulty": 3,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Anivia",
+          "imposteur_en": "Lissandra"
         },
         {
           "civil": "Pantheon",
-          "civil_en": "Pantheon",
           "imposteur": "Aatrox",
-          "imposteur_en": "Aatrox",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Pantheon",
+          "imposteur_en": "Aatrox"
         },
         {
           "civil": "Soraka",
-          "civil_en": "Soraka",
           "imposteur": "Karthus",
-          "imposteur_en": "Karthus",
           "difficulty": 2,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Soraka",
+          "imposteur_en": "Karthus"
         },
         {
           "civil": "Morgana",
-          "civil_en": "Morgana",
           "imposteur": "Kayle",
-          "imposteur_en": "Kayle",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Morgana",
+          "imposteur_en": "Kayle"
         },
         {
           "civil": "Swain",
-          "civil_en": "Swain",
           "imposteur": "LeBlanc",
-          "imposteur_en": "LeBlanc",
           "difficulty": 3,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Swain",
+          "imposteur_en": "LeBlanc"
         },
         {
           "civil": "Garen",
-          "civil_en": "Garen",
           "imposteur": "Darius",
-          "imposteur_en": "Darius",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Garen",
+          "imposteur_en": "Darius"
         },
         {
           "civil": "Lux",
-          "civil_en": "Lux",
           "imposteur": "Sylas",
-          "imposteur_en": "Lux",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Lux",
+          "imposteur_en": "Lux"
         },
         {
           "civil": "Miss Fortune",
-          "civil_en": "Miss Fortune",
           "imposteur": "Gangplank",
-          "imposteur_en": "Gangplank",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Miss Fortune",
+          "imposteur_en": "Gangplank"
         },
         {
           "civil": "Jayce",
-          "civil_en": "Jayce",
           "imposteur": "Viktor",
-          "imposteur_en": "Viktor",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Jayce",
+          "imposteur_en": "Viktor"
         },
         {
           "civil": "Vi",
-          "civil_en": "Vi",
           "imposteur": "Jinx",
-          "imposteur_en": "Vi",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Vi",
+          "imposteur_en": "Vi"
         },
         {
           "civil": "Taliyah",
-          "civil_en": "Taliyah",
           "imposteur": "Azir",
-          "imposteur_en": "Taliyah",
           "difficulty": 3,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Taliyah",
+          "imposteur_en": "Taliyah"
         },
         {
           "civil": "Rakan",
-          "civil_en": "Rakan",
           "imposteur": "Xayah",
-          "imposteur_en": "Xayah",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Rakan",
+          "imposteur_en": "Xayah"
         },
         {
           "civil": "Yone",
-          "civil_en": "Yone",
           "imposteur": "Yasuo",
-          "imposteur_en": "Yone",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Yone",
+          "imposteur_en": "Yone"
         },
         {
           "civil": "Kindred",
-          "civil_en": "Kindred",
           "imposteur": "Loup",
-          "imposteur_en": "Wolf",
           "difficulty": 3,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Kindred",
+          "imposteur_en": "Wolf"
         },
         {
           "civil": "Maître Yi",
-          "civil_en": "Master Yi",
           "imposteur": "Wukong",
-          "imposteur_en": "Wukong",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Master Yi",
+          "imposteur_en": "Wukong"
         }
       ]
     },
@@ -691,99 +691,99 @@
       "pairs": [
         {
           "civil": "Demacia",
-          "civil_en": "Demacia",
           "imposteur": "Noxus",
-          "imposteur_en": "Noxus",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Demacia",
+          "imposteur_en": "Noxus"
         },
         {
           "civil": "Piltover",
-          "civil_en": "Piltover",
           "imposteur": "Zaun",
-          "imposteur_en": "Zaun",
           "difficulty": 1,
-          "niche": 1
+          "niche": 1,
+          "civil_en": "Piltover",
+          "imposteur_en": "Zaun"
         },
         {
           "civil": "Freljord",
-          "civil_en": "Freljord",
           "imposteur": "Îles obscures",
-          "imposteur_en": "Shadow Isles",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Freljord",
+          "imposteur_en": "Shadow Isles"
         },
         {
           "civil": "Ionia",
-          "civil_en": "Ionia",
           "imposteur": "Noxus",
-          "imposteur_en": "Noxus",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Ionia",
+          "imposteur_en": "Noxus"
         },
         {
           "civil": "Shurima",
-          "civil_en": "Shurima",
           "imposteur": "Icathia",
-          "imposteur_en": "Icathia",
           "difficulty": 3,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Shurima",
+          "imposteur_en": "Icathia"
         },
         {
           "civil": "Mont Targon",
-          "civil_en": "Mount Targon",
           "imposteur": "Le Néant",
-          "imposteur_en": "The Void",
           "difficulty": 3,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Mount Targon",
+          "imposteur_en": "The Void"
         },
         {
           "civil": "Bilgewater",
-          "civil_en": "Bilgewater",
           "imposteur": "Îles obscures",
-          "imposteur_en": "Shadow Isles",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Bilgewater",
+          "imposteur_en": "Shadow Isles"
         },
         {
           "civil": "Ixtal",
-          "civil_en": "Ixtal",
           "imposteur": "Shurima",
-          "imposteur_en": "Shurima",
           "difficulty": 4,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Ixtal",
+          "imposteur_en": "Shurima"
         },
         {
           "civil": "Bandle",
-          "civil_en": "Bandle City",
           "imposteur": "Runeterra",
-          "imposteur_en": "Runeterra",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Bandle City",
+          "imposteur_en": "Runeterra"
         },
         {
           "civil": "Garde de givre",
-          "civil_en": "Frostguard",
           "imposteur": "Griffes de l'hiver",
-          "imposteur_en": "Winter's Claw",
           "difficulty": 3,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Frostguard",
+          "imposteur_en": "Winter's Claw"
         },
         {
           "civil": "Les Solari",
-          "civil_en": "The Solari",
           "imposteur": "Les Lunari",
-          "imposteur_en": "The Lunari",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "The Solari",
+          "imposteur_en": "The Lunari"
         },
         {
           "civil": "Noxkraya",
-          "civil_en": "Noxkraya",
           "imposteur": "Arènes de sang",
-          "imposteur_en": "Blood Arenas",
           "difficulty": 4,
-          "niche": 5
+          "niche": 5,
+          "civil_en": "Noxkraya",
+          "imposteur_en": "Blood Arenas"
         }
       ]
     },
@@ -794,131 +794,131 @@
       "pairs": [
         {
           "civil": "Kameto",
-          "civil_en": "Kameto",
           "imposteur": "Sardoche",
-          "imposteur_en": "Sardoche",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Kameto",
+          "imposteur_en": "Sardoche"
         },
         {
           "civil": "Skyyart",
-          "civil_en": "Skyyart",
           "imposteur": "Chelxie",
-          "imposteur_en": "Chelxie",
           "difficulty": 1,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Skyyart",
+          "imposteur_en": "Chelxie"
         },
         {
           "civil": "Alderiate",
-          "civil_en": "Alderiate",
           "imposteur": "Chap",
-          "imposteur_en": "Chap",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Alderiate",
+          "imposteur_en": "Chap"
         },
         {
           "civil": "Wakz",
-          "civil_en": "Wakz",
           "imposteur": "Rhobalas",
-          "imposteur_en": "Rhobalas",
           "difficulty": 2,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Wakz",
+          "imposteur_en": "Rhobalas"
         },
         {
           "civil": "Trayton",
-          "civil_en": "Trayton",
           "imposteur": "Marex",
-          "imposteur_en": "Marex",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Trayton",
+          "imposteur_en": "Marex"
         },
         {
           "civil": "Slipix",
-          "civil_en": "Slipix",
           "imposteur": "GobGG",
-          "imposteur_en": "GobGG",
           "difficulty": 2,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Slipix",
+          "imposteur_en": "GobGG"
         },
         {
           "civil": "Caëlan",
-          "civil_en": "Caelan",
           "imposteur": "ImSoFresh",
-          "imposteur_en": "ImSoFresh",
           "difficulty": 2,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Caelan",
+          "imposteur_en": "ImSoFresh"
         },
         {
           "civil": "Domingo",
-          "civil_en": "Domingo",
           "imposteur": "Doigby",
-          "imposteur_en": "Doigby",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Domingo",
+          "imposteur_en": "Doigby"
         },
         {
           "civil": "Sixen",
-          "civil_en": "Sixen",
           "imposteur": "LRB",
-          "imposteur_en": "LRB",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Sixen",
+          "imposteur_en": "LRB"
         },
         {
           "civil": "Tyler1",
-          "civil_en": "Tyler1",
           "imposteur": "Imaqtpie",
-          "imposteur_en": "Imaqtpie",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Tyler1",
+          "imposteur_en": "Imaqtpie"
         },
         {
           "civil": "Tobias Fate",
-          "civil_en": "Tobias Fate",
           "imposteur": "Solarbacca",
-          "imposteur_en": "Solarbacca",
           "difficulty": 3,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Tobias Fate",
+          "imposteur_en": "Solarbacca"
         },
         {
           "civil": "Pokimane",
-          "civil_en": "Pokimane",
           "imposteur": "LilyPichu",
-          "imposteur_en": "LilyPichu",
           "difficulty": 1,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Pokimane",
+          "imposteur_en": "LilyPichu"
         },
         {
           "civil": "Caps",
-          "civil_en": "Caps",
           "imposteur": "Perkz",
-          "imposteur_en": "Perkz",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Caps",
+          "imposteur_en": "Perkz"
         },
         {
           "civil": "Narkuss",
-          "civil_en": "Narkuss",
           "imposteur": "ImSoFresh",
-          "imposteur_en": "ImSoFresh",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Narkuss",
+          "imposteur_en": "ImSoFresh"
         },
         {
           "civil": "Jbzz",
-          "civil_en": "Jbzz",
           "imposteur": "Rhobalas",
-          "imposteur_en": "Rhobalas",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Jbzz",
+          "imposteur_en": "Rhobalas"
         },
         {
           "civil": "Kotei",
-          "civil_en": "Kotei",
           "imposteur": "Kameto",
-          "imposteur_en": "Kameto",
           "difficulty": 1,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Kotei",
+          "imposteur_en": "Kameto"
         }
       ]
     },
@@ -929,83 +929,83 @@
       "pairs": [
         {
           "civil": "Le Néant",
-          "civil_en": "The Void",
           "imposteur": "Les lueurs d'Icathia",
-          "imposteur_en": "The Lights of Icathia",
           "difficulty": 4,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "The Void",
+          "imposteur_en": "The Lights of Icathia"
         },
         {
           "civil": "Brume noire",
-          "civil_en": "Black Mist",
           "imposteur": "Bénédiction des Îles",
-          "imposteur_en": "Isles Blessing",
           "difficulty": 3,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Black Mist",
+          "imposteur_en": "Isles Blessing"
         },
         {
           "civil": "Larme de la déesse",
-          "civil_en": "Tear of the Goddess",
           "imposteur": "Sceptre de Rylai",
-          "imposteur_en": "Rylai's Crystal Scepter",
           "difficulty": 2,
-          "niche": 3
+          "niche": 3,
+          "civil_en": "Tear of the Goddess",
+          "imposteur_en": "Rylai's Crystal Scepter"
         },
         {
           "civil": "Épée du roi déchu",
-          "civil_en": "Blade of the Ruined King",
           "imposteur": "L'Isolde",
-          "imposteur_en": "Isolde",
           "difficulty": 3,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Blade of the Ruined King",
+          "imposteur_en": "Isolde"
         },
         {
           "civil": "Puits des âges",
-          "civil_en": "Well of Ages",
           "imposteur": "Disque solaire",
-          "imposteur_en": "Sun Disc",
           "difficulty": 4,
-          "niche": 5
+          "niche": 5,
+          "civil_en": "Well of Ages",
+          "imposteur_en": "Sun Disc"
         },
         {
           "civil": "Hémomancie",
-          "civil_en": "Hemomancy",
           "imposteur": "Magie des runes",
-          "imposteur_en": "Rune Magic",
           "difficulty": 4,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Hemomancy",
+          "imposteur_en": "Rune Magic"
         },
         {
           "civil": "Gardiens du Temps",
-          "civil_en": "Time Keepers",
           "imposteur": "Veilleurs glacials",
-          "imposteur_en": "Frozen Watchers",
           "difficulty": 5,
-          "niche": 5
+          "niche": 5,
+          "civil_en": "Time Keepers",
+          "imposteur_en": "Frozen Watchers"
         },
         {
           "civil": "Arbre de vie",
-          "civil_en": "Tree of Life",
           "imposteur": "Forêt de Maokai",
-          "imposteur_en": "Maokai's Forest",
           "difficulty": 3,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Tree of Life",
+          "imposteur_en": "Maokai's Forest"
         },
         {
           "civil": "Hextech",
-          "civil_en": "Hextech",
           "imposteur": "Chemtech",
-          "imposteur_en": "Chemtech",
           "difficulty": 2,
-          "niche": 2
+          "niche": 2,
+          "civil_en": "Hextech",
+          "imposteur_en": "Chemtech"
         },
         {
           "civil": "Pétricite",
-          "civil_en": "Petricite",
           "imposteur": "Larmes de l'arbre",
-          "imposteur_en": "Tree Tears",
           "difficulty": 3,
-          "niche": 4
+          "niche": 4,
+          "civil_en": "Petricite",
+          "imposteur_en": "Tree Tears"
         }
       ]
     }
