@@ -43,12 +43,15 @@
 <!-- ─────────── FRANÇAIS ─────────── -->
 <section id="fr">
   <h1>Politique de confidentialité — L'Imposteur</h1>
-  <p class="meta">Dernière mise à jour : 31 mai 2026</p>
+  <p class="meta">Dernière mise à jour : 8 juin 2026</p>
 
   <div class="summary">
     <strong>En bref :</strong> cette application est conçue pour le respect de la vie privée.
-    Aucune donnée personnelle n'est collectée ni transmise sans ton action explicite.
-    Un identifiant <em>anonyme</em> reste sur ton appareil et n'est jamais lié à ton identité.
+    <strong>Aucune donnée personnelle</strong> (nom, e-mail, position…) n'est collectée.
+    Seuls des <strong>événements de jeu anonymes</strong> et un <strong>identifiant anonyme</strong>
+    sont envoyés automatiquement à notre service de statistiques (Google Firebase) pour
+    améliorer l'application. Cet identifiant n'est jamais lié à ton identité, et tu peux
+    désactiver entièrement cette collecte depuis l'app.
   </div>
 
   <h2>1. Qui est responsable du traitement ?</h2>
@@ -70,12 +73,33 @@
     <li>Des <strong>logs techniques</strong> (max 500 lignes) capturant les erreurs éventuelles</li>
   </ul>
   <p>
-    Toutes ces données restent <strong>localement sur ton téléphone</strong>.
+    Une copie de ces données reste <strong>localement sur ton téléphone</strong>.
     Tu peux les consulter et les effacer à tout moment depuis l'écran
     « À propos & mes données ».
   </p>
 
-  <h3>2.2 Téléchargées depuis Internet (consultation seule)</h3>
+  <h3>2.2 Envoyées automatiquement à notre service de statistiques (Google Firebase)</h3>
+  <p>
+    Pour comprendre comment l'app est utilisée et l'améliorer, les
+    <strong>événements de jeu anonymes</strong> décrits ci-dessus, accompagnés de
+    l'<strong>identifiant anonyme (UUID)</strong> et de la <strong>version de l'app</strong>,
+    sont envoyés automatiquement à <strong>Google Firebase (Cloud Firestore)</strong>,
+    un service d'hébergement fourni par Google. Ces envois :
+  </p>
+  <ul>
+    <li>ne contiennent <strong>aucune donnée personnelle identifiante</strong>
+        (ni nom, ni e-mail, ni position) ;</li>
+    <li>sont <strong>chiffrés en transit</strong> (HTTPS) ;</li>
+    <li>peuvent être <strong>entièrement désactivés</strong> à tout moment via
+        l'interrupteur « Activer la collecte » de l'écran « À propos & mes données ».
+        Si tu le désactives, plus aucun événement n'est envoyé.</li>
+  </ul>
+  <p>
+    Google agit comme sous-traitant technique pour l'hébergement de ces données.
+    Voir la <a href="https://firebase.google.com/support/privacy">politique de confidentialité de Firebase</a>.
+  </p>
+
+  <h3>2.3 Téléchargées depuis Internet (consultation seule)</h3>
   <ul>
     <li>Les <strong>thèmes de mots</strong> (fichiers JSON publics hébergés sur GitHub)
         sont téléchargés au premier lancement et lors des mises à jour
@@ -87,7 +111,7 @@
     (voir <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">la politique GitHub</a>).
   </p>
 
-  <h3>2.3 Envoyées par mail à l'auteur (uniquement si tu cliques)</h3>
+  <h3>2.4 Envoyées par mail à l'auteur (uniquement si tu cliques)</h3>
   <p>
     Trois boutons dans l'écran « À propos » te permettent d'envoyer par e-mail
     à l'auteur de l'app :
@@ -109,9 +133,13 @@
     <li>❌ Aucune adresse, position GPS, contact</li>
     <li>❌ Aucune photo, vidéo ou microphone</li>
     <li>❌ Aucun identifiant publicitaire</li>
-    <li>❌ Aucun tracker tiers (Google Analytics, Facebook, etc.)</li>
+    <li>❌ Aucun tracker publicitaire tiers (pas de Facebook, pas de régie pub)</li>
     <li>❌ Aucun compte requis (pas de Google Sign-In, pas de profil)</li>
   </ul>
+  <p style="font-size:90%; color:#666;">
+    À noter : les statistiques de jeu anonymes sont hébergées via Google Firebase
+    (voir section 2.2), qui n'est pas utilisé à des fins publicitaires.
+  </p>
 
   <h2>4. Tes droits (RGPD)</h2>
   <p>Conformément au Règlement Général sur la Protection des Données :</p>
@@ -135,7 +163,13 @@
 
   <h2>6. Partage avec des tiers</h2>
   <p>
-    <strong>Aucun</strong> partage automatique avec des tiers.
+    Les <strong>statistiques de jeu anonymes</strong> (section 2.2) sont hébergées sur
+    <strong>Google Firebase</strong>, qui agit comme prestataire technique d'hébergement
+    pour notre compte. Ces données ne sont <strong>ni vendues, ni partagées</strong> avec
+    d'autres tiers, et ne servent à <strong>aucune publicité</strong>.
+  </p>
+  <p>
+    En dehors de cela, aucun autre partage automatique n'a lieu.
     Si tu choisis volontairement d'envoyer un mail à l'auteur,
     le contenu ne transite par aucun serveur intermédiaire :
     c'est ton client mail (Gmail, Outlook…) qui s'en occupe.
@@ -143,9 +177,11 @@
 
   <h2>7. Sécurité</h2>
   <p>
-    Toutes les données restent sur ton téléphone, donc soumises à la sécurité
+    Les données stockées sur ton téléphone sont soumises à la sécurité
     de ton appareil (verrouillage écran, chiffrement Android).
-    Aucun mot de passe ni accès distant n'est utilisé par l'app.
+    Les statistiques anonymes envoyées à Firebase sont chiffrées en transit (HTTPS)
+    et protégées côté serveur par les règles de sécurité Firebase.
+    Aucun mot de passe ni accès distant à ton appareil n'est utilisé par l'app.
   </p>
 
   <h2>8. Modifications</h2>
@@ -169,12 +205,14 @@
 <!-- ─────────── ENGLISH ─────────── -->
 <section id="en">
   <h1>Privacy Policy — L'Imposteur</h1>
-  <p class="meta">Last updated: May 31, 2026</p>
+  <p class="meta">Last updated: June 8, 2026</p>
 
   <div class="summary">
-    <strong>TL;DR:</strong> Privacy-first app. No personal data collected or sent
-    without your explicit action. An anonymous identifier stays on your device
-    and is never linked to your identity.
+    <strong>TL;DR:</strong> Privacy-first app. <strong>No personal data</strong>
+    (name, email, location…) is collected. Only <strong>anonymous gameplay events</strong>
+    and an <strong>anonymous identifier</strong> are sent automatically to our analytics
+    service (Google Firebase) to improve the app. This identifier is never linked to your
+    identity, and you can fully disable this collection from within the app.
   </div>
 
   <h2>1. Data Controller</h2>
@@ -194,17 +232,36 @@
     <li>Technical logs (max 500 lines) capturing any errors</li>
   </ul>
   <p>
-    All this data stays <strong>locally on your phone</strong>. You can view
+    A copy of this data stays <strong>locally on your phone</strong>. You can view
     and clear it anytime via the "About & my data" screen.
   </p>
 
-  <h3>2.2 Downloaded from the internet (read-only)</h3>
+  <h3>2.2 Sent automatically to our analytics service (Google Firebase)</h3>
+  <p>
+    To understand how the app is used and improve it, the
+    <strong>anonymous gameplay events</strong> above, together with the
+    <strong>anonymous identifier (UUID)</strong> and the <strong>app version</strong>,
+    are sent automatically to <strong>Google Firebase (Cloud Firestore)</strong>,
+    a hosting service provided by Google. These transmissions:
+  </p>
+  <ul>
+    <li>contain <strong>no personally identifying data</strong> (no name, email, or location);</li>
+    <li>are <strong>encrypted in transit</strong> (HTTPS);</li>
+    <li>can be <strong>fully disabled</strong> anytime via the "Enable collection"
+        toggle on the "About &amp; my data" screen. Once disabled, no further events are sent.</li>
+  </ul>
+  <p>
+    Google acts as a technical processor for hosting this data.
+    See the <a href="https://firebase.google.com/support/privacy">Firebase privacy policy</a>.
+  </p>
+
+  <h3>2.3 Downloaded from the internet (read-only)</h3>
   <ul>
     <li>Word themes (public JSON files hosted on GitHub) are downloaded at first
         launch and during updates (~every 4 hours max).</li>
   </ul>
 
-  <h3>2.3 Sent via email to the author (only if you tap)</h3>
+  <h3>2.4 Sent via email to the author (only if you tap)</h3>
   <p>
     Three buttons in "About" let you email the author:
   </p>
@@ -224,9 +281,13 @@
     <li>❌ No address, GPS location, contacts</li>
     <li>❌ No photos, video, or microphone</li>
     <li>❌ No advertising identifier</li>
-    <li>❌ No third-party trackers (Google Analytics, Facebook, etc.)</li>
+    <li>❌ No third-party advertising trackers (no Facebook, no ad network)</li>
     <li>❌ No account required (no Google Sign-In, no profile)</li>
   </ul>
+  <p style="font-size:90%; color:#666;">
+    Note: anonymous gameplay statistics are hosted via Google Firebase
+    (see section 2.2), which is not used for any advertising purposes.
+  </p>
 
   <h2>4. Your rights (GDPR)</h2>
   <ul>
@@ -242,14 +303,22 @@
 
   <h2>6. Third-party sharing</h2>
   <p>
-    <strong>None</strong>. If you choose to email the author, the content uses
-    your own email client without going through any intermediate server.
+    The <strong>anonymous gameplay statistics</strong> (section 2.2) are hosted on
+    <strong>Google Firebase</strong>, acting as a technical hosting provider on our behalf.
+    This data is <strong>neither sold nor shared</strong> with other third parties, and is
+    used for <strong>no advertising</strong>.
+  </p>
+  <p>
+    Beyond this, no other automatic sharing occurs. If you choose to email the author,
+    the content uses your own email client without going through any intermediate server.
   </p>
 
   <h2>7. Security</h2>
   <p>
-    All data stays on your phone, subject to your device's security
-    (screen lock, Android encryption). No password or remote access.
+    Data stored on your phone is subject to your device's security
+    (screen lock, Android encryption). Anonymous statistics sent to Firebase are
+    encrypted in transit (HTTPS) and protected server-side by Firebase security rules.
+    No password or remote access to your device is used.
   </p>
 
   <h2>8. Changes</h2>
