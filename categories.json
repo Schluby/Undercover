@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "version": 4,
+  "categories": [
+    {
+      "id": "jeu_video",
+      "name": "Jeu vidéo",
+      "emoji": "🎮",
+      "themeIds": [
+        "jeux_video",
+        "league_of_legends",
+        "minecraft",
+        "pokemon",
+        "zelda"
+      ]
+    },
+    {
+      "id": "anime",
+      "name": "Animé",
+      "emoji": "🍥",
+      "themeIds": [
+        "anime",
+        "one_piece",
+        "dragon_ball",
+        "naruto",
+        "attack_on_titan",
+        "jujutsu_kaisen",
+        "hunter_x_hunter",
+        "animes_cultes",
+        "films_animation"
+      ]
+    },
+    {
+      "id": "film_serie",
+      "name": "Film & Série",
+      "emoji": "🎬",
+      "themeIds": [
+        "films_series",
+        "harry_potter",
+        "lotr",
+        "star_wars",
+        "marvel",
+        "disney",
+        "pixar",
+        "dreamworks"
+      ]
+    },
+    {
+      "id": "general",
+      "name": "Général",
+      "emoji": "🧠",
+      "themeIds": [
+        "general"
+      ]
+    }
+  ]
+}

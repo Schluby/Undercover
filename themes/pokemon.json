@@ -2,14 +2,8 @@
   "id": "pokemon",
   "name": "Pokémon",
   "emoji": "⚡",
-  "version": 1,
+  "version": 2,
   "subthemes": [
-    {
-      "id": "general",
-      "name": "Général",
-      "crossMixable": false,
-      "pairs": []
-    },
     {
       "id": "sub_ddb2sm",
       "name": "Pokémon Gen 1",
@@ -64,12 +58,12 @@
           "imposteur_en": "Mew"
         },
         {
-          "civil": "Ronflex",
-          "imposteur": "Léviator",
-          "difficulty": 3,
-          "niche": 2,
-          "civil_en": "Snorlax",
-          "imposteur_en": "Gyarados"
+          "civil": "Chenipan",
+          "imposteur": "Aspicot",
+          "difficulty": 1,
+          "niche": 1,
+          "civil_en": "Caterpie",
+          "imposteur_en": "Weedle"
         },
         {
           "civil": "Magicarpe",
@@ -110,14 +104,6 @@
           "niche": 2,
           "civil_en": "Onix",
           "imposteur_en": "Geodude"
-        },
-        {
-          "civil": "Ronflex",
-          "imposteur": "Tauros",
-          "difficulty": 3,
-          "niche": 3,
-          "civil_en": "Snorlax",
-          "imposteur_en": "Tauros"
         },
         {
           "civil": "Artikodin",
@@ -175,12 +161,12 @@
           "imposteur_en": "Giratina"
         },
         {
-          "civil": "Zarbi",
-          "imposteur": "Métamorph",
-          "difficulty": 3,
-          "niche": 3,
-          "civil_en": "Unown",
-          "imposteur_en": "Ditto"
+          "civil": "Dracaufeu",
+          "imposteur": "Dracolosse",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "Charizard",
+          "imposteur_en": "Dragonite"
         },
         {
           "civil": "Lucario",
@@ -278,20 +264,20 @@
           "imposteur_en": "Pokémon League"
         },
         {
-          "civil": "Badge",
-          "imposteur": "Pokédex",
-          "difficulty": 2,
-          "niche": 2,
-          "civil_en": "Badge",
-          "imposteur_en": "Pokédex"
+          "civil": "Potion",
+          "imposteur": "Super Potion",
+          "difficulty": 1,
+          "niche": 1,
+          "civil_en": "Potion",
+          "imposteur_en": "Super Potion"
         },
         {
-          "civil": "Bonbon Rare",
-          "imposteur": "Super Potion",
-          "difficulty": 3,
-          "niche": 3,
-          "civil_en": "Rare Candy",
-          "imposteur_en": "Super Potion"
+          "civil": "Dresseur",
+          "imposteur": "Champion d'Arène",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "Trainer",
+          "imposteur_en": "Gym Leader"
         },
         {
           "civil": "Professeur Chen",

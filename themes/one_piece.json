@@ -2,7 +2,7 @@
   "id": "one_piece",
   "name": "One Piece",
   "emoji": "🏴‍☠️",
-  "version": 2,
+  "version": 3,
   "subthemes": [
     {
       "id": "sub_bkajw5",
@@ -177,14 +177,6 @@
           "imposteur_en": "Armament Haki"
         },
         {
-          "civil": "Haki de l'Observation",
-          "imposteur": "Ryuo",
-          "difficulty": 1,
-          "niche": 3,
-          "civil_en": "Observation Haki",
-          "imposteur_en": "Ryuo"
-        },
-        {
           "civil": "Ope Ope no Mi",
           "imposteur": "Mochi Mochi no Mi",
           "difficulty": 2,
@@ -202,7 +194,7 @@
         },
         {
           "civil": "Éveil du Fruit",
-          "imposteur": "Fluide",
+          "imposteur": "Haki",
           "difficulty": 2,
           "niche": 2,
           "civil_en": "Fruit Awakening",
@@ -826,14 +818,6 @@
           "imposteur_en": "Artificial Devil Fruit"
         },
         {
-          "civil": "Will of D",
-          "imposteur": "Siècle Oublié",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "Will of D",
-          "imposteur_en": "Void Century"
-        },
-        {
           "civil": "Pacifista",
           "imposteur": "Seraphim",
           "difficulty": 2,
@@ -866,12 +850,12 @@
           "imposteur_en": "CP0"
         },
         {
-          "civil": "Fluide du Roi",
-          "imposteur": "Fluide de l'Armement",
-          "difficulty": 1,
-          "niche": 2,
-          "civil_en": "Conqueror's Haki",
-          "imposteur_en": "Armament Haki"
+          "civil": "Will of D",
+          "imposteur": "Siècle Oublié",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Will of D",
+          "imposteur_en": "Void Century"
         },
         {
           "civil": "Poneglyphe",

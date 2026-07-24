@@ -2,14 +2,8 @@
   "id": "naruto",
   "name": "Naruto",
   "emoji": "🍥",
-  "version": 1,
+  "version": 2,
   "subthemes": [
-    {
-      "id": "general",
-      "name": "Général",
-      "crossMixable": false,
-      "pairs": []
-    },
     {
       "id": "sub_egj3ut",
       "name": "Personnages",
@@ -170,7 +164,7 @@
           "civil": "Multiclonage",
           "imposteur": "Transformation",
           "difficulty": 3,
-          "niche": 2,
+          "niche": 1,
           "civil_en": "Shadow Clone",
           "imposteur_en": "Transformation Jutsu"
         },
@@ -184,11 +178,11 @@
         },
         {
           "civil": "Susanoo",
-          "imposteur": "Mangekyō",
+          "imposteur": "Amaterasu",
           "difficulty": 2,
           "niche": 3,
           "civil_en": "Susanoo",
-          "imposteur_en": "Mangekyō"
+          "imposteur_en": "Amaterasu"
         },
         {
           "civil": "Mode Ermite",
@@ -297,7 +291,7 @@
           "civil": "Genin",
           "imposteur": "Chunin",
           "difficulty": 2,
-          "niche": 3,
+          "niche": 1,
           "civil_en": "Genin",
           "imposteur_en": "Chunin"
         },

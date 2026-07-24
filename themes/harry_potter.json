@@ -2,14 +2,8 @@
   "id": "harry_potter",
   "name": "Harry Potter",
   "emoji": "🧙",
-  "version": 1,
+  "version": 3,
   "subthemes": [
-    {
-      "id": "general",
-      "name": "Général",
-      "crossMixable": false,
-      "pairs": []
-    },
     {
       "id": "sub_zf3dy7",
       "name": "Personnages",
@@ -126,6 +120,30 @@
           "niche": 2,
           "civil_en": "Cedric Diggory",
           "imposteur_en": "Viktor Krum"
+        },
+        {
+          "civil": "Barty Croupton Jr.",
+          "imposteur": "Maugrey",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Barty Crouch Jr.",
+          "imposteur_en": "Mad-Eye Moody"
+        },
+        {
+          "civil": "Rita Skeeter",
+          "imposteur": "Sibylle Trelawney",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "Rita Skeeter",
+          "imposteur_en": "Sibyll Trelawney"
+        },
+        {
+          "civil": "Fleur Delacour",
+          "imposteur": "Gabrielle Delacour",
+          "difficulty": 3,
+          "niche": 2,
+          "civil_en": "Fleur Delacour",
+          "imposteur_en": "Gabrielle Delacour"
         }
       ]
     },
@@ -205,6 +223,22 @@
           "niche": 2,
           "civil_en": "Wingardium Leviosa",
           "imposteur_en": "Reparo"
+        },
+        {
+          "civil": "Amortentia",
+          "imposteur": "Veritaserum",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Amortentia",
+          "imposteur_en": "Veritaserum"
+        },
+        {
+          "civil": "Occlumancie",
+          "imposteur": "Légilimencie",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "Occlumency",
+          "imposteur_en": "Legilimency"
         }
       ]
     },
@@ -292,6 +326,14 @@
           "niche": 2,
           "civil_en": "Hogwarts Express",
           "imposteur_en": "Knight Bus"
+        },
+        {
+          "civil": "La Cabane Hurlante",
+          "imposteur": "La Tour d'Astronomie",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "Shrieking Shack",
+          "imposteur_en": "Astronomy Tower"
         }
       ]
     },
@@ -371,6 +413,22 @@
           "niche": 2,
           "civil_en": "Philosopher's Stone",
           "imposteur_en": "Goblet of Fire"
+        },
+        {
+          "civil": "Norbert",
+          "imposteur": "Aragog",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Norbert",
+          "imposteur_en": "Aragog"
+        },
+        {
+          "civil": "Le Retourneur de Temps",
+          "imposteur": "Le Miroir du Riséd",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "Time-Turner",
+          "imposteur_en": "Mirror of Erised"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "id": "minecraft",
   "name": "Minecraft",
   "emoji": "⛏️",
-  "version": 2,
+  "version": 3,
   "subthemes": [
     {
       "id": "mobs",
@@ -21,17 +21,9 @@
           "civil": "creeper",
           "imposteur": "enderman",
           "difficulty": 2,
-          "niche": 2,
+          "niche": 1,
           "civil_en": "creeper",
           "imposteur_en": "enderman"
-        },
-        {
-          "civil": "araignée",
-          "imposteur": "araignée des cavernes",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "spider",
-          "imposteur_en": "cave_spider"
         },
         {
           "civil": "vache",
@@ -50,166 +42,6 @@
           "imposteur_en": "chicken"
         },
         {
-          "civil": "villageois",
-          "imposteur": "pillageois",
-          "difficulty": 2,
-          "niche": 2,
-          "civil_en": "villager",
-          "imposteur_en": "pillager"
-        },
-        {
-          "civil": "blaze",
-          "imposteur": "ghast",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "blaze",
-          "imposteur_en": "ghast"
-        },
-        {
-          "civil": "wither",
-          "imposteur": "dragon de l'Ender",
-          "difficulty": 4,
-          "niche": 3,
-          "civil_en": "wither",
-          "imposteur_en": "ender_dragon"
-        },
-        {
-          "civil": "gardien",
-          "imposteur": "grand gardien",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "guardian",
-          "imposteur_en": "elder_guardian"
-        },
-        {
-          "civil": "phantom",
-          "imposteur": "allay",
-          "difficulty": 3,
-          "niche": 5,
-          "civil_en": "phantom",
-          "imposteur_en": "allay"
-        },
-        {
-          "civil": "wither squelette",
-          "imposteur": "vagabond",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "wither_skeleton",
-          "imposteur_en": "stray"
-        },
-        {
-          "civil": "noyé",
-          "imposteur": "husk",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "drowned",
-          "imposteur_en": "husk"
-        },
-        {
-          "civil": "cochon zombifié",
-          "imposteur": "piglin barbare",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "zombified_piglin",
-          "imposteur_en": "piglin_brute"
-        },
-        {
-          "civil": "arpenteur",
-          "imposteur": "ghast",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "strider",
-          "imposteur_en": "ghast"
-        },
-        {
-          "civil": "cheval squelette",
-          "imposteur": "cheval zombie",
-          "difficulty": 3,
-          "niche": 5,
-          "civil_en": "skeleton_horse",
-          "imposteur_en": "zombie_horse"
-        },
-        {
-          "civil": "vache champimeuh",
-          "imposteur": "axolotl",
-          "difficulty": 2,
-          "niche": 4,
-          "civil_en": "mooshroom",
-          "imposteur_en": "axolotl"
-        },
-        {
-          "civil": "shulker",
-          "imposteur": "arpenteur du Nether",
-          "difficulty": 3,
-          "niche": 5,
-          "civil_en": "shulker",
-          "imposteur_en": "endermite"
-        },
-        {
-          "civil": "grand gardien",
-          "imposteur": "warden",
-          "difficulty": 4,
-          "niche": 4,
-          "civil_en": "elder_guardian",
-          "imposteur_en": "warden"
-        },
-        {
-          "civil": "ravageur",
-          "imposteur": "évocateur",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "ravager",
-          "imposteur_en": "evoker"
-        },
-        {
-          "civil": "illusionniste",
-          "imposteur": "vindicateur",
-          "difficulty": 4,
-          "niche": 6,
-          "civil_en": "illusioner",
-          "imposteur_en": "vindicator"
-        },
-        {
-          "civil": "breeze",
-          "imposteur": "bogged",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "breeze",
-          "imposteur_en": "bogged"
-        },
-        {
-          "civil": "têtard",
-          "imposteur": "grenouille",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "tadpole",
-          "imposteur_en": "frog"
-        },
-        {
-          "civil": "Herobrine",
-          "imposteur": "Notch",
-          "difficulty": 1,
-          "niche": 1,
-          "civil_en": "Herobrine",
-          "imposteur_en": "Notch"
-        },
-        {
-          "civil": "Jeb",
-          "imposteur": "Dinnerbone",
-          "difficulty": 2,
-          "niche": 2,
-          "civil_en": "Jeb",
-          "imposteur_en": "Dinnerbone"
-        },
-        {
-          "civil": "Entity 303",
-          "imposteur": "Null",
-          "difficulty": 2,
-          "niche": 4,
-          "civil_en": "Entity 303",
-          "imposteur_en": "Null"
-        },
-        {
           "civil": "Steve",
           "imposteur": "Alex",
           "difficulty": 1,
@@ -218,20 +50,108 @@
           "imposteur_en": "Alex"
         },
         {
-          "civil": "The Far Lands",
-          "imposteur": "Green Steve",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "The Far Lands",
-          "imposteur_en": "Green Steve"
+          "civil": "villageois",
+          "imposteur": "pillageois",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "villager",
+          "imposteur_en": "pillager"
         },
         {
-          "civil": "Giant Zombie",
-          "imposteur": "Killer Bunny",
+          "civil": "squelette",
+          "imposteur": "wither squelette",
+          "difficulty": 1,
+          "niche": 2,
+          "civil_en": "skeleton",
+          "imposteur_en": "wither skeleton"
+        },
+        {
+          "civil": "blaze",
+          "imposteur": "ghast",
           "difficulty": 2,
-          "niche": 3,
-          "civil_en": "Giant Zombie",
-          "imposteur_en": "Killer Bunny"
+          "niche": 2,
+          "civil_en": "blaze",
+          "imposteur_en": "ghast"
+        },
+        {
+          "civil": "slime",
+          "imposteur": "cube de magma",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "slime",
+          "imposteur_en": "magma cube"
+        },
+        {
+          "civil": "zombie",
+          "imposteur": "noyé",
+          "difficulty": 1,
+          "niche": 2,
+          "civil_en": "zombie",
+          "imposteur_en": "drowned"
+        },
+        {
+          "civil": "loup",
+          "imposteur": "renard",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "wolf",
+          "imposteur_en": "fox"
+        },
+        {
+          "civil": "cheval",
+          "imposteur": "âne",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "horse",
+          "imposteur_en": "donkey"
+        },
+        {
+          "civil": "golem de fer",
+          "imposteur": "golem de neige",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "iron golem",
+          "imposteur_en": "snow golem"
+        },
+        {
+          "civil": "wither",
+          "imposteur": "Ender Dragon",
+          "difficulty": 3,
+          "niche": 2,
+          "civil_en": "wither",
+          "imposteur_en": "Ender Dragon"
+        },
+        {
+          "civil": "Herobrine",
+          "imposteur": "Notch",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "Herobrine",
+          "imposteur_en": "Notch"
+        },
+        {
+          "civil": "araignée",
+          "imposteur": "araignée des cavernes",
+          "difficulty": 1,
+          "niche": 1,
+          "civil_en": "spider",
+          "imposteur_en": "cave spider"
+        },
+        {
+          "civil": "axolotl",
+          "imposteur": "grenouille",
+          "difficulty": 3,
+          "niche": 2,
+          "civil_en": "axolotl",
+          "imposteur_en": "frog"
+        },
+        {
+          "civil": "piglin",
+          "imposteur": "piglin zombifié",
+          "difficulty": 1,
+          "niche": 2,
+          "civil_en": "piglin",
+          "imposteur_en": "zombified piglin"
         }
       ]
     },
@@ -244,41 +164,17 @@
           "civil": "épée en fer",
           "imposteur": "épée en diamant",
           "difficulty": 1,
-          "niche": 2,
-          "civil_en": "iron_sword",
-          "imposteur_en": "diamond_sword"
+          "niche": 1,
+          "civil_en": "iron sword",
+          "imposteur_en": "diamond sword"
         },
         {
           "civil": "pioche",
           "imposteur": "hache",
-          "difficulty": 1,
+          "difficulty": 2,
           "niche": 1,
           "civil_en": "pickaxe",
           "imposteur_en": "axe"
-        },
-        {
-          "civil": "pelle",
-          "imposteur": "houe",
-          "difficulty": 1,
-          "niche": 1,
-          "civil_en": "shovel",
-          "imposteur_en": "hoe"
-        },
-        {
-          "civil": "arc",
-          "imposteur": "arbalète",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "bow",
-          "imposteur_en": "crossbow"
-        },
-        {
-          "civil": "trident",
-          "imposteur": "masse",
-          "difficulty": 4,
-          "niche": 5,
-          "civil_en": "trident",
-          "imposteur_en": "mace"
         },
         {
           "civil": "casque",
@@ -289,164 +185,108 @@
           "imposteur_en": "chestplate"
         },
         {
-          "civil": "jambières",
-          "imposteur": "bottes",
+          "civil": "bottes",
+          "imposteur": "jambières",
           "difficulty": 1,
           "niche": 1,
-          "civil_en": "leggings",
-          "imposteur_en": "boots"
+          "civil_en": "boots",
+          "imposteur_en": "leggings"
+        },
+        {
+          "civil": "seau d'eau",
+          "imposteur": "seau de lave",
+          "difficulty": 2,
+          "niche": 1,
+          "civil_en": "water bucket",
+          "imposteur_en": "lava bucket"
+        },
+        {
+          "civil": "pelle",
+          "imposteur": "houe",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "shovel",
+          "imposteur_en": "hoe"
+        },
+        {
+          "civil": "arc",
+          "imposteur": "arbalète",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "bow",
+          "imposteur_en": "crossbow"
+        },
+        {
+          "civil": "pomme dorée",
+          "imposteur": "pomme dorée enchantée",
+          "difficulty": 1,
+          "niche": 2,
+          "civil_en": "golden apple",
+          "imposteur_en": "enchanted golden apple"
+        },
+        {
+          "civil": "perle de l'Ender",
+          "imposteur": "œil de l'Ender",
+          "difficulty": 1,
+          "niche": 2,
+          "civil_en": "ender pearl",
+          "imposteur_en": "eye of ender"
+        },
+        {
+          "civil": "potion de soin",
+          "imposteur": "potion de régénération",
+          "difficulty": 1,
+          "niche": 2,
+          "civil_en": "healing potion",
+          "imposteur_en": "regeneration potion"
+        },
+        {
+          "civil": "carte",
+          "imposteur": "boussole",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "map",
+          "imposteur_en": "compass"
+        },
+        {
+          "civil": "livre",
+          "imposteur": "livre enchanté",
+          "difficulty": 1,
+          "niche": 2,
+          "civil_en": "book",
+          "imposteur_en": "enchanted book"
+        },
+        {
+          "civil": "canne à pêche",
+          "imposteur": "cisailles",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "fishing rod",
+          "imposteur_en": "shears"
+        },
+        {
+          "civil": "bouclier",
+          "imposteur": "totem d'immortalité",
+          "difficulty": 3,
+          "niche": 2,
+          "civil_en": "shield",
+          "imposteur_en": "totem of undying"
         },
         {
           "civil": "élytres",
           "imposteur": "carapace de tortue",
           "difficulty": 3,
-          "niche": 5,
+          "niche": 3,
           "civil_en": "elytra",
-          "imposteur_en": "turtle_shell"
+          "imposteur_en": "turtle shell"
         },
         {
-          "civil": "bouclier",
-          "imposteur": "totem d'immortalité",
+          "civil": "trident",
+          "imposteur": "masse",
           "difficulty": 2,
           "niche": 3,
-          "civil_en": "shield",
-          "imposteur_en": "totem_of_undying"
-        },
-        {
-          "civil": "canne à pêche",
-          "imposteur": "cisailles",
-          "difficulty": 1,
-          "niche": 3,
-          "civil_en": "fishing_rod",
-          "imposteur_en": "shears"
-        },
-        {
-          "civil": "verrue du Nether",
-          "imposteur": "poudre de blaze",
-          "difficulty": 2,
-          "niche": 2,
-          "civil_en": "nether_wart",
-          "imposteur_en": "blaze_powder"
-        },
-        {
-          "civil": "larme de ghast",
-          "imposteur": "membrane de phantom",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "ghast_tear",
-          "imposteur_en": "phantom_membrane"
-        },
-        {
-          "civil": "patte de lapin",
-          "imposteur": "crème de magma",
-          "difficulty": 3,
-          "niche": 5,
-          "civil_en": "rabbit_foot",
-          "imposteur_en": "magma_cream"
-        },
-        {
-          "civil": "oeil d'araignée fermenté",
-          "imposteur": "sucre",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "fermented_spider_eye",
-          "imposteur_en": "sugar"
-        },
-        {
-          "civil": "souffle de dragon",
-          "imposteur": "potion volatile",
-          "difficulty": 4,
-          "niche": 4,
-          "civil_en": "dragon_breath",
-          "imposteur_en": "splash_potion"
-        },
-        {
-          "civil": "potion persistante",
-          "imposteur": "fiole d'eau",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "lingering_potion",
-          "imposteur_en": "water_bottle"
-        },
-        {
-          "civil": "tranche de melon scintillant",
-          "imposteur": "carotte dorée",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "glistering_melon_slice",
-          "imposteur_en": "golden_carrot"
-        },
-        {
-          "civil": "carapace de tortue",
-          "imposteur": "poudre de graphite",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "turtle_shell",
-          "imposteur_en": "glowstone_dust"
-        },
-        {
-          "civil": "fragment de disque",
-          "imposteur": "disque de musique",
-          "difficulty": 4,
-          "niche": 5,
-          "civil_en": "disc_fragment",
-          "imposteur_en": "music_disc"
-        },
-        {
-          "civil": "modèle de forge",
-          "imposteur": "lingot de nétherite",
-          "difficulty": 4,
-          "niche": 3,
-          "civil_en": "smithing_template",
-          "imposteur_en": "netherite_ingot"
-        },
-        {
-          "civil": "pomme dorée enchantée",
-          "imposteur": "cristal de l'Ender",
-          "difficulty": 4,
-          "niche": 4,
-          "civil_en": "enchanted_golden_apple",
-          "imposteur_en": "end_crystal"
-        },
-        {
-          "civil": "coque de shulker",
-          "imposteur": "coeur de la mer",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "shulker_shell",
-          "imposteur_en": "heart_of_the_sea"
-        },
-        {
-          "civil": "étoile du Nether",
-          "imposteur": "conduit",
-          "difficulty": 4,
-          "niche": 4,
-          "civil_en": "nether_star",
-          "imposteur_en": "conduit"
-        },
-        {
-          "civil": "boussole de récupération",
-          "imposteur": "boussole magnétique",
-          "difficulty": 4,
-          "niche": 5,
-          "civil_en": "recovery_compass",
-          "imposteur_en": "lodestone_compass"
-        },
-        {
-          "civil": "fragment d'écho",
-          "imposteur": "fragment de prismarine",
-          "difficulty": 4,
-          "niche": 5,
-          "civil_en": "echo_shard",
-          "imposteur_en": "prismarine_shard"
-        },
-        {
-          "civil": "clé des épreuves",
-          "imposteur": "clé des épreuves lourde",
-          "difficulty": 4,
-          "niche": 4,
-          "civil_en": "trial_key",
-          "imposteur_en": "ominous_trial_key"
+          "civil_en": "trident",
+          "imposteur_en": "mace"
         }
       ]
     },
@@ -456,32 +296,8 @@
       "crossMixable": true,
       "pairs": [
         {
-          "civil": "Obsidienne",
-          "imposteur": "Bedrock",
-          "difficulty": 4,
-          "niche": 3
-        },
-        {
-          "civil": "Sable",
-          "imposteur": "Gravier",
-          "difficulty": 2,
-          "niche": 2
-        },
-        {
-          "civil": "Chêne",
-          "imposteur": "Bouleau",
-          "difficulty": 3,
-          "niche": 2
-        },
-        {
-          "civil": "Coffre",
-          "imposteur": "Tonneau",
-          "difficulty": 4,
-          "niche": 3
-        },
-        {
           "civil": "pierre",
-          "imposteur": "pavé",
+          "imposteur": "cobblestone",
           "difficulty": 1,
           "niche": 1,
           "civil_en": "stone",
@@ -489,187 +305,123 @@
         },
         {
           "civil": "terre",
-          "imposteur": "herbe",
-          "difficulty": 1,
+          "imposteur": "bloc d'herbe",
+          "difficulty": 2,
           "niche": 1,
           "civil_en": "dirt",
-          "imposteur_en": "grass_block"
+          "imposteur_en": "grass block"
         },
         {
-          "civil": "planches de chêne",
-          "imposteur": "planches de sapin",
+          "civil": "établi",
+          "imposteur": "four",
+          "difficulty": 2,
+          "niche": 1,
+          "civil_en": "crafting table",
+          "imposteur_en": "furnace"
+        },
+        {
+          "civil": "torche",
+          "imposteur": "lanterne",
+          "difficulty": 2,
+          "niche": 1,
+          "civil_en": "torch",
+          "imposteur_en": "lantern"
+        },
+        {
+          "civil": "porte",
+          "imposteur": "trappe",
           "difficulty": 1,
-          "niche": 2,
-          "civil_en": "oak_planks",
-          "imposteur_en": "spruce_planks"
-        },
-        {
-          "civil": "minerai de fer",
-          "imposteur": "minerai de diamant",
-          "difficulty": 2,
-          "niche": 2,
-          "civil_en": "iron_ore",
-          "imposteur_en": "diamond_ore"
-        },
-        {
-          "civil": "obsidienne",
-          "imposteur": "roche de mica",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "obsidian",
-          "imposteur_en": "crying_obsidian"
-        },
-        {
-          "civil": "bloc de redstone",
-          "imposteur": "bloc de lapis-lazuli",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "redstone_block",
-          "imposteur_en": "lapis_lazuli_block"
+          "niche": 1,
+          "civil_en": "door",
+          "imposteur_en": "trapdoor"
         },
         {
           "civil": "sable",
           "imposteur": "gravier",
           "difficulty": 1,
-          "niche": 2,
+          "niche": 1,
           "civil_en": "sand",
           "imposteur_en": "gravel"
         },
         {
-          "civil": "pierre du Nether",
-          "imposteur": "pierre noire",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "netherrack",
-          "imposteur_en": "blackstone"
+          "civil": "minerai de fer",
+          "imposteur": "minerai de diamant",
+          "difficulty": 1,
+          "niche": 1,
+          "civil_en": "iron ore",
+          "imposteur_en": "diamond ore"
         },
         {
-          "civil": "minerai d'or",
-          "imposteur": "minerai d'or du Nether",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "gold_ore",
-          "imposteur_en": "nether_gold_ore"
-        },
-        {
-          "civil": "ardoise des abîmes",
-          "imposteur": "tuf",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "deepslate",
-          "imposteur_en": "tuff"
-        },
-        {
-          "civil": "tuff sculpté",
-          "imposteur": "brèche de tuf",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "chiseled_tuff",
-          "imposteur_en": "tuff_bricks"
-        },
-        {
-          "civil": "grès rouge poli",
-          "imposteur": "grès rouge sculpté",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "cut_red_sandstone",
-          "imposteur_en": "chiseled_red_sandstone"
-        },
-        {
-          "civil": "minerai de fer des abîmes",
-          "imposteur": "minerai d'or des abîmes",
+          "civil": "coffre",
+          "imposteur": "ender chest",
           "difficulty": 2,
           "niche": 2,
-          "civil_en": "deepslate_iron_ore",
-          "imposteur_en": "deepslate_gold_ore"
+          "civil_en": "chest",
+          "imposteur_en": "ender chest"
         },
         {
-          "civil": "débris antiques",
-          "imposteur": "bloc de nétherite",
-          "difficulty": 4,
+          "civil": "obsidienne",
+          "imposteur": "bedrock",
+          "difficulty": 3,
           "niche": 2,
-          "civil_en": "ancient_debris",
-          "imposteur_en": "netherite_block"
+          "civil_en": "obsidian",
+          "imposteur_en": "bedrock"
         },
         {
-          "civil": "tige de champignon déformé",
-          "imposteur": "hyphes déformées",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "warped_stem",
-          "imposteur_en": "warped_hyphae"
-        },
-        {
-          "civil": "basalte poli",
-          "imposteur": "basalte lisse",
-          "difficulty": 3,
-          "niche": 5,
-          "civil_en": "polished_basalt",
-          "imposteur_en": "smooth_basalt"
-        },
-        {
-          "civil": "béton gris clair",
-          "imposteur": "poudre de béton gris clair",
+          "civil": "verre",
+          "imposteur": "glace",
           "difficulty": 2,
-          "niche": 3,
-          "civil_en": "light_gray_concrete",
-          "imposteur_en": "light_gray_concrete_powder"
+          "niche": 2,
+          "civil_en": "glass",
+          "imposteur_en": "ice"
         },
         {
-          "civil": "terre cuite émaillée marron",
-          "imposteur": "terre cuite émaillée noire",
-          "difficulty": 3,
-          "niche": 6,
-          "civil_en": "brown_glazed_terracotta",
-          "imposteur_en": "black_glazed_terracotta"
-        },
-        {
-          "civil": "diorite polie",
-          "imposteur": "andésite polie",
+          "civil": "four",
+          "imposteur": "haut fourneau",
           "difficulty": 1,
           "niche": 2,
-          "civil_en": "polished_diorite",
-          "imposteur_en": "polished_andesite"
+          "civil_en": "furnace",
+          "imposteur_en": "blast furnace"
         },
         {
-          "civil": "mud bricks",
-          "imposteur": "argile",
+          "civil": "échelle",
+          "imposteur": "échafaudage",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "ladder",
+          "imposteur_en": "scaffolding"
+        },
+        {
+          "civil": "citrouille",
+          "imposteur": "citrouille-lanterne",
+          "difficulty": 1,
+          "niche": 2,
+          "civil_en": "pumpkin",
+          "imposteur_en": "jack o'lantern"
+        },
+        {
+          "civil": "panneau",
+          "imposteur": "cadre",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "sign",
+          "imposteur_en": "item frame"
+        },
+        {
+          "civil": "enclume",
+          "imposteur": "meule",
           "difficulty": 2,
           "niche": 3,
-          "civil_en": "mud_bricks",
-          "imposteur_en": "clay"
+          "civil_en": "anvil",
+          "imposteur_en": "grindstone"
         },
         {
-          "civil": "schiste ardoisier poli",
-          "imposteur": "tuiles d'ardoise des abîmes",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "polished_deepslate",
-          "imposteur_en": "deepslate_tiles"
-        },
-        {
-          "civil": "roche de mica sculptée",
-          "imposteur": "pupitre",
-          "difficulty": 2,
-          "niche": 4,
-          "civil_en": "chiseled_bookshelf",
-          "imposteur_en": "lectern"
-        },
-        {
-          "civil": "bloc de cuivre oxydé",
-          "imposteur": "bloc de cuivre taillé oxydé",
-          "difficulty": 3,
+          "civil": "ruche",
+          "imposteur": "nid d'abeilles",
+          "difficulty": 1,
           "niche": 3,
-          "civil_en": "oxidized_copper",
-          "imposteur_en": "oxidized_cut_copper"
-        },
-        {
-          "civil": "grille en cuivre cirée",
-          "imposteur": "ampoule en cuivre cirée",
-          "difficulty": 4,
-          "niche": 5,
-          "civil_en": "waxed_copper_grate",
-          "imposteur_en": "waxed_copper_bulb"
+          "civil_en": "beehive",
+          "imposteur_en": "bee nest"
         }
       ]
     },
@@ -680,336 +432,216 @@
       "pairs": [
         {
           "civil": "le Nether",
-          "imposteur": "l'Ender",
+          "imposteur": "l'End",
           "difficulty": 2,
           "niche": 2,
-          "civil_en": "the_nether",
-          "imposteur_en": "the_end"
+          "civil_en": "the Nether",
+          "imposteur_en": "the End"
         },
         {
-          "civil": "forteresse du Nether",
-          "imposteur": "bastion",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "nether_fortress",
-          "imposteur_en": "bastion_remnant"
+          "civil": "plaines",
+          "imposteur": "forêt",
+          "difficulty": 2,
+          "niche": 1,
+          "civil_en": "plains",
+          "imposteur_en": "forest"
+        },
+        {
+          "civil": "océan",
+          "imposteur": "rivière",
+          "difficulty": 2,
+          "niche": 1,
+          "civil_en": "ocean",
+          "imposteur_en": "river"
+        },
+        {
+          "civil": "désert",
+          "imposteur": "mesa",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "desert",
+          "imposteur_en": "badlands"
+        },
+        {
+          "civil": "grotte",
+          "imposteur": "ravin",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "cave",
+          "imposteur_en": "ravine"
+        },
+        {
+          "civil": "village",
+          "imposteur": "avant-poste de pilleurs",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "village",
+          "imposteur_en": "pillager outpost"
         },
         {
           "civil": "donjon",
-          "imposteur": "puits de mine",
+          "imposteur": "mine abandonnée",
           "difficulty": 2,
-          "niche": 3,
+          "niche": 2,
           "civil_en": "dungeon",
           "imposteur_en": "mineshaft"
         },
         {
           "civil": "temple de la jungle",
           "imposteur": "pyramide du désert",
+          "difficulty": 1,
+          "niche": 3,
+          "civil_en": "jungle temple",
+          "imposteur_en": "desert pyramid"
+        },
+        {
+          "civil": "forteresse du Nether",
+          "imposteur": "bastion",
           "difficulty": 2,
           "niche": 3,
-          "civil_en": "jungle_temple",
-          "imposteur_en": "desert_pyramid"
+          "civil_en": "nether fortress",
+          "imposteur_en": "bastion"
         },
         {
-          "civil": "cité de l'Ender",
-          "imposteur": "navire de l'Ender",
+          "civil": "manoir",
+          "imposteur": "monument océanique",
           "difficulty": 3,
-          "niche": 4,
-          "civil_en": "end_city",
-          "imposteur_en": "end_ship"
+          "niche": 3,
+          "civil_en": "woodland mansion",
+          "imposteur_en": "ocean monument"
         },
         {
-          "civil": "monument sous-marin",
-          "imposteur": "ruines sous-marines",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "ocean_monument",
-          "imposteur_en": "ocean_ruins"
-        },
-        {
-          "civil": "manoir de la forêt",
-          "imposteur": "avant-poste de pilleurs",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "woodland_mansion",
-          "imposteur_en": "pillager_outpost"
-        },
-        {
-          "civil": "ville antique",
-          "imposteur": "chambres des épreuves",
-          "difficulty": 4,
-          "niche": 5,
-          "civil_en": "ancient_city",
-          "imposteur_en": "trial_chambers"
-        },
-        {
-          "civil": "delta de basalte",
-          "imposteur": "vallée des âmes",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "basalt_deltas",
-          "imposteur_en": "soul_sand_valley"
+          "civil": "cité de l'End",
+          "imposteur": "navire de l'End",
+          "difficulty": 1,
+          "niche": 3,
+          "civil_en": "end city",
+          "imposteur_en": "end ship"
         },
         {
           "civil": "forêt carmin",
           "imposteur": "forêt déformée",
+          "difficulty": 1,
+          "niche": 3,
+          "civil_en": "crimson forest",
+          "imposteur_en": "warped forest"
+        },
+        {
+          "civil": "grotte luxuriante",
+          "imposteur": "grotte de stalactites",
           "difficulty": 2,
           "niche": 3,
-          "civil_en": "crimson_forest",
-          "imposteur_en": "warped_forest"
+          "civil_en": "lush cave",
+          "imposteur_en": "dripstone cave"
         },
         {
-          "civil": "pics de glace",
-          "imposteur": "taïga enneigée",
+          "civil": "ville antique",
+          "imposteur": "chambre des épreuves",
           "difficulty": 2,
-          "niche": 4,
-          "civil_en": "ice_spikes",
-          "imposteur_en": "snowy_taiga"
-        },
-        {
-          "civil": "cavernes luxuriantes",
-          "imposteur": "cavernes de spéléothèmes",
-          "difficulty": 3,
           "niche": 3,
-          "civil_en": "lush_caves",
-          "imposteur_en": "dripstone_caves"
-        },
-        {
-          "civil": "terres stériles",
-          "imposteur": "mangrove",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "badlands",
-          "imposteur_en": "mangrove_swamp"
-        },
-        {
-          "civil": "les îles de l'Ender",
-          "imposteur": "les petites îles de l'Ender",
-          "difficulty": 4,
-          "niche": 5,
-          "civil_en": "end_barrens",
-          "imposteur_en": "small_end_islands"
-        },
-        {
-          "civil": "abîmes profonds",
-          "imposteur": "prairie de cerisiers",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "deep_dark",
-          "imposteur_en": "cherry_grove"
+          "civil_en": "ancient city",
+          "imposteur_en": "trial chamber"
         }
       ]
     },
     {
       "id": "sub_sk0u31",
-      "name": "Redstone et commandes",
+      "name": "Redstone",
       "crossMixable": false,
       "pairs": [
         {
-          "civil": "répéditeur de redstone",
-          "imposteur": "comparateur de redstone",
-          "difficulty": 3,
+          "civil": "redstone",
+          "imposteur": "torche de redstone",
+          "difficulty": 2,
           "niche": 2,
-          "civil_en": "redstone_repeater",
-          "imposteur_en": "redstone_comparator"
-        },
-        {
-          "civil": "observateur",
-          "imposteur": "capteur de lumière de jour",
-          "difficulty": 3,
-          "niche": 3,
-          "civil_en": "observer",
-          "imposteur_en": "daylight_detector"
+          "civil_en": "redstone dust",
+          "imposteur_en": "redstone torch"
         },
         {
           "civil": "piston",
           "imposteur": "piston collant",
-          "difficulty": 2,
+          "difficulty": 1,
           "niche": 2,
           "civil_en": "piston",
-          "imposteur_en": "sticky_piston"
+          "imposteur_en": "sticky piston"
+        },
+        {
+          "civil": "levier",
+          "imposteur": "bouton",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "lever",
+          "imposteur_en": "button"
+        },
+        {
+          "civil": "plaque de pression",
+          "imposteur": "fil de détente",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "pressure plate",
+          "imposteur_en": "tripwire"
+        },
+        {
+          "civil": "rail",
+          "imposteur": "rail propulseur",
+          "difficulty": 1,
+          "niche": 2,
+          "civil_en": "rail",
+          "imposteur_en": "powered rail"
+        },
+        {
+          "civil": "porte en fer",
+          "imposteur": "porte en bois",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "iron door",
+          "imposteur_en": "wooden door"
+        },
+        {
+          "civil": "bloc de redstone",
+          "imposteur": "lampe de redstone",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "redstone block",
+          "imposteur_en": "redstone lamp"
+        },
+        {
+          "civil": "répéteur",
+          "imposteur": "comparateur",
+          "difficulty": 1,
+          "niche": 3,
+          "civil_en": "repeater",
+          "imposteur_en": "comparator"
         },
         {
           "civil": "distributeur",
           "imposteur": "dropper",
-          "difficulty": 3,
-          "niche": 4,
+          "difficulty": 1,
+          "niche": 3,
           "civil_en": "dispenser",
           "imposteur_en": "dropper"
         },
         {
-          "civil": "entonnoir",
-          "imposteur": "coffre piégé",
+          "civil": "observateur",
+          "imposteur": "capteur de lumière du jour",
           "difficulty": 2,
           "niche": 3,
-          "civil_en": "hopper",
-          "imposteur_en": "trapped_chest"
+          "civil_en": "observer",
+          "imposteur_en": "daylight sensor"
         },
         {
-          "civil": "bloc musical",
-          "imposteur": "boîte à musique",
-          "difficulty": 3,
-          "niche": 5,
-          "civil_en": "note_block",
-          "imposteur_en": "jukebox"
-        },
-        {
-          "civil": "crochet",
-          "imposteur": "plaque de pression en pesée",
-          "difficulty": 2,
-          "niche": 4,
-          "civil_en": "tripwire_hook",
-          "imposteur_en": "heavy_weighted_pressure_plate"
-        },
-        {
-          "civil": "paratonnerre",
-          "imposteur": "capteur de vibrations",
-          "difficulty": 4,
-          "niche": 5,
-          "civil_en": "lightning_rod",
-          "imposteur_en": "sculk_sensor"
-        },
-        {
-          "civil": "calibrated sculk sensor",
-          "imposteur": "sculk shrieker",
-          "difficulty": 5,
-          "niche": 6,
-          "civil_en": "calibrated_sculk_sensor",
-          "imposteur_en": "sculk_shrieker"
-        },
-        {
-          "civil": "crafter",
-          "imposteur": "distributeur",
-          "difficulty": 4,
-          "niche": 4,
-          "civil_en": "crafter",
-          "imposteur_en": "dispenser"
-        },
-        {
-          "civil": "/say",
-          "imposteur": "/tellraw",
-          "difficulty": 3,
-          "niche": 2,
-          "civil_en": "/say",
-          "imposteur_en": "/tellraw"
-        },
-        {
-          "civil": "/tp",
-          "imposteur": "/teleport",
+          "civil": "rail détecteur",
+          "imposteur": "rail activateur",
           "difficulty": 1,
-          "niche": 1,
-          "civil_en": "/tp",
-          "imposteur_en": "/teleport"
-        },
-        {
-          "civil": "/give",
-          "imposteur": "/item",
-          "difficulty": 2,
           "niche": 3,
-          "civil_en": "/give",
-          "imposteur_en": "/item"
-        },
-        {
-          "civil": "/setblock",
-          "imposteur": "/fill",
-          "difficulty": 2,
-          "niche": 2,
-          "civil_en": "/setblock",
-          "imposteur_en": "/fill"
-        },
-        {
-          "civil": "/fill...replace",
-          "imposteur": "/clone",
-          "difficulty": 3,
-          "niche": 3,
-          "civil_en": "/fill...replace",
-          "imposteur_en": "/clone"
-        },
-        {
-          "civil": "/execute as",
-          "imposteur": "/execute at",
-          "difficulty": 4,
-          "niche": 2,
-          "civil_en": "/execute as",
-          "imposteur_en": "/execute at"
-        },
-        {
-          "civil": "/scoreboard objectives",
-          "imposteur": "/team",
-          "difficulty": 3,
-          "niche": 3,
-          "civil_en": "/scoreboard objectives",
-          "imposteur_en": "/team"
-        },
-        {
-          "civil": "/data merge",
-          "imposteur": "/data modify",
-          "difficulty": 5,
-          "niche": 5,
-          "civil_en": "/data merge",
-          "imposteur_en": "/data modify"
-        },
-        {
-          "civil": "/summon",
-          "imposteur": "/particle",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "/summon",
-          "imposteur_en": "/particle"
-        },
-        {
-          "civil": "/effect give",
-          "imposteur": "/attribute",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "/effect give",
-          "imposteur_en": "/attribute"
-        },
-        {
-          "civil": "/execute if score",
-          "imposteur": "/execute if entity",
-          "difficulty": 4,
-          "niche": 3,
-          "civil_en": "/execute if score",
-          "imposteur_en": "/execute if entity"
-        },
-        {
-          "civil": "/tag",
-          "imposteur": "/scoreboard players tag",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "/tag",
-          "imposteur_en": "/scoreboard players tag"
-        },
-        {
-          "civil": "/title",
-          "imposteur": "/actionbar",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "/title",
-          "imposteur_en": "/actionbar"
-        },
-        {
-          "civil": "/playsound",
-          "imposteur": "/stopsound",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "/playsound",
-          "imposteur_en": "/stopsound"
-        },
-        {
-          "civil": "/locate",
-          "imposteur": "/locate biome",
-          "difficulty": 2,
-          "niche": 4,
-          "civil_en": "/locate",
-          "imposteur_en": "/locate biome"
+          "civil_en": "detector rail",
+          "imposteur_en": "activator rail"
         }
       ]
     },
     {
       "id": "sub_1408f6",
-      "name": "Personnes et serveurs",
+      "name": "Personnes & serveurs",
       "crossMixable": false,
       "pairs": [
         {
@@ -1029,14 +661,6 @@
           "imposteur_en": "Fanta"
         },
         {
-          "civil": "Aypierre",
-          "imposteur": "FuzeIII",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "Aypierre",
-          "imposteur_en": "FuzeIII"
-        },
-        {
           "civil": "Frigiel",
           "imposteur": "Siphano",
           "difficulty": 1,
@@ -1045,20 +669,12 @@
           "imposteur_en": "Siphano"
         },
         {
-          "civil": "MultiGamingFr",
-          "imposteur": "GussDx",
-          "difficulty": 2,
-          "niche": 4,
-          "civil_en": "MultiGamingFr",
-          "imposteur_en": "GussDx"
-        },
-        {
-          "civil": "Roi Louis",
-          "imposteur": "Aurélien Sama",
+          "civil": "Aypierre",
+          "imposteur": "FuzeIII",
           "difficulty": 2,
           "niche": 3,
-          "civil_en": "Roi Louis",
-          "imposteur_en": "Aurelien Sama"
+          "civil_en": "Aypierre",
+          "imposteur_en": "FuzeIII"
         },
         {
           "civil": "Inoxtag",
@@ -1069,6 +685,14 @@
           "imposteur_en": "Michou"
         },
         {
+          "civil": "Squeezie",
+          "imposteur": "Inoxtag",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "Squeezie",
+          "imposteur_en": "Inoxtag"
+        },
+        {
           "civil": "Dream",
           "imposteur": "Technoblade",
           "difficulty": 2,
@@ -1077,28 +701,20 @@
           "imposteur_en": "Technoblade"
         },
         {
-          "civil": "DanTDM",
-          "imposteur": "CaptainSparklez",
-          "difficulty": 1,
-          "niche": 2,
-          "civil_en": "DanTDM",
-          "imposteur_en": "CaptainSparklez"
-        },
-        {
-          "civil": "Mumbo Jumbo",
-          "imposteur": "SethBling",
-          "difficulty": 3,
-          "niche": 3,
-          "civil_en": "Mumbo Jumbo",
-          "imposteur_en": "SethBling"
-        },
-        {
           "civil": "MrBeast",
           "imposteur": "PewDiePie",
           "difficulty": 1,
           "niche": 2,
           "civil_en": "MrBeast",
           "imposteur_en": "PewDiePie"
+        },
+        {
+          "civil": "DanTDM",
+          "imposteur": "CaptainSparklez",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "DanTDM",
+          "imposteur_en": "CaptainSparklez"
         },
         {
           "civil": "Hypixel",
@@ -1112,7 +728,7 @@
           "civil": "Mineplex",
           "imposteur": "The Hive",
           "difficulty": 1,
-          "niche": 2,
+          "niche": 3,
           "civil_en": "Mineplex",
           "imposteur_en": "The Hive"
         },
@@ -1125,20 +741,20 @@
           "imposteur_en": "Dream SMP"
         },
         {
-          "civil": "Wynncraft",
-          "imposteur": "Hypixel SkyBlock",
-          "difficulty": 3,
-          "niche": 4,
-          "civil_en": "Wynncraft",
-          "imposteur_en": "Hypixel SkyBlock"
-        },
-        {
           "civil": "Funcraft",
           "imposteur": "Epicube",
           "difficulty": 1,
           "niche": 3,
           "civil_en": "Funcraft",
           "imposteur_en": "Epicube"
+        },
+        {
+          "civil": "Roi Louis",
+          "imposteur": "Aurélien Sama",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Roi Louis",
+          "imposteur_en": "Aurelien Sama"
         }
       ]
     }

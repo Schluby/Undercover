@@ -2,17 +2,11 @@
   "id": "lotr",
   "name": "Seigneur des Anneaux",
   "emoji": "💍",
-  "version": 1,
+  "version": 3,
   "subthemes": [
     {
-      "id": "general",
-      "name": "Général",
-      "crossMixable": false,
-      "pairs": []
-    },
-    {
       "id": "sub_jjl7i3",
-      "name": "Personnages (films)",
+      "name": "Personnages",
       "crossMixable": false,
       "pairs": [
         {
@@ -128,9 +122,17 @@
           "imposteur_en": "Boromir"
         },
         {
-          "civil": "Bombadil",
+          "civil": "Grima",
+          "imposteur": "Saroumane",
+          "difficulty": 2,
+          "niche": 2,
+          "civil_en": "Grima Wormtongue",
+          "imposteur_en": "Saruman"
+        },
+        {
+          "civil": "Tom Bombadil",
           "imposteur": "Barbebois",
-          "difficulty": 3,
+          "difficulty": 2,
           "niche": 3,
           "civil_en": "Tom Bombadil",
           "imposteur_en": "Treebeard"
@@ -287,11 +289,11 @@
         },
         {
           "civil": "Le Mithril",
-          "imposteur": "L'Or des Nains",
-          "difficulty": 3,
+          "imposteur": "L'Arkenstone",
+          "difficulty": 2,
           "niche": 2,
           "civil_en": "Mithril",
-          "imposteur_en": "Dwarven Gold"
+          "imposteur_en": "Arkenstone"
         },
         {
           "civil": "Lembas",
@@ -357,28 +359,12 @@
           "imposteur_en": "Two Trees of Valinor"
         },
         {
-          "civil": "Manwë",
-          "imposteur": "Ulmo",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "Manwë",
-          "imposteur_en": "Ulmo"
-        },
-        {
           "civil": "Valar",
           "imposteur": "Maiar",
           "difficulty": 2,
           "niche": 3,
           "civil_en": "Valar",
           "imposteur_en": "Maiar"
-        },
-        {
-          "civil": "Ilúvatar",
-          "imposteur": "Aulë",
-          "difficulty": 3,
-          "niche": 3,
-          "civil_en": "Ilúvatar",
-          "imposteur_en": "Aulë"
         },
         {
           "civil": "Gondolin",
@@ -419,14 +405,6 @@
           "niche": 3,
           "civil_en": "Thingol",
           "imposteur_en": "Melian"
-        },
-        {
-          "civil": "Le Serment de Fëanor",
-          "imposteur": "La Guerre de la Colère",
-          "difficulty": 3,
-          "niche": 3,
-          "civil_en": "Oath of Fëanor",
-          "imposteur_en": "War of Wrath"
         },
         {
           "civil": "Ungoliant",

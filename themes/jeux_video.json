@@ -1,8 +1,8 @@
 {
   "id": "jeux_video",
-  "name": "Jeux Vidéo",
+  "name": "Jeux vidéo (général)",
   "emoji": "🎮",
-  "version": 1,
+  "version": 2,
   "subthemes": [
     {
       "id": "licences",
@@ -208,6 +208,30 @@
           "niche": 1,
           "civil_en": "Clash Royale",
           "imposteur_en": "Clash of Clans"
+        },
+        {
+          "civil": "Chrono Trigger",
+          "imposteur": "Final Fantasy VI",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Chrono Trigger",
+          "imposteur_en": "Final Fantasy VI"
+        },
+        {
+          "civil": "Metal Gear Solid",
+          "imposteur": "Silent Hill",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Metal Gear Solid",
+          "imposteur_en": "Silent Hill"
+        },
+        {
+          "civil": "Katamari Damacy",
+          "imposteur": "Journey",
+          "difficulty": 3,
+          "niche": 3,
+          "civil_en": "Katamari Damacy",
+          "imposteur_en": "Journey"
         }
       ]
     },
@@ -415,6 +439,14 @@
           "niche": 3,
           "civil_en": "Jin Sakai",
           "imposteur_en": "Ezio"
+        },
+        {
+          "civil": "Cloud",
+          "imposteur": "Squall",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Cloud",
+          "imposteur_en": "Squall"
         }
       ]
     },
@@ -622,6 +654,14 @@
           "niche": 1,
           "civil_en": "Gaming PC",
           "imposteur_en": "Console"
+        },
+        {
+          "civil": "Neo Geo",
+          "imposteur": "3DO",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Neo Geo",
+          "imposteur_en": "3DO"
         }
       ]
     },
@@ -829,6 +869,14 @@
           "niche": 2,
           "civil_en": "Tutorial",
           "imposteur_en": "Walkthrough"
+        },
+        {
+          "civil": "New Game Plus",
+          "imposteur": "Roguelike",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "New Game Plus",
+          "imposteur_en": "Roguelike"
         }
       ]
     }

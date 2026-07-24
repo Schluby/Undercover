@@ -1,8 +1,8 @@
 {
   "id": "anime",
-  "name": "Animé",
+  "name": "Animés (général)",
   "emoji": "🎌",
-  "version": 2,
+  "version": 3,
   "subthemes": [
     {
       "id": "sub_jovvb6",
@@ -67,11 +67,11 @@
         },
         {
           "civil": "Code Geass",
-          "imposteur": "Steins",
-          "difficulty": 5,
-          "niche": 5,
+          "imposteur": "Steins;Gate",
+          "difficulty": 2,
+          "niche": 3,
           "civil_en": "Code Geass",
-          "imposteur_en": "Gate"
+          "imposteur_en": "Steins;Gate"
         },
         {
           "civil": "Monster",
@@ -355,7 +355,7 @@
           "civil": "Studio Ghibli",
           "imposteur": "Toei Animation",
           "difficulty": 1,
-          "niche": 1,
+          "niche": 2,
           "civil_en": "Studio Ghibli",
           "imposteur_en": "Toei Animation"
         },
@@ -409,11 +409,11 @@
         },
         {
           "civil": "Sunrise",
-          "imposteur": "Mecha",
+          "imposteur": "Studio Khara",
           "difficulty": 2,
           "niche": 3,
           "civil_en": "Sunrise",
-          "imposteur_en": "Bandai Namco Filmworks"
+          "imposteur_en": "Studio Khara"
         },
         {
           "civil": "Pierrot",
@@ -495,7 +495,7 @@
           "imposteur_en": "Armament Haki"
         },
         {
-          "civil": "Une lueur d'espoir",
+          "civil": "Detroit Smash",
           "imposteur": "United States of Smash",
           "difficulty": 2,
           "niche": 2,

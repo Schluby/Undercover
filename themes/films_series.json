@@ -1,8 +1,8 @@
 {
   "id": "films_series",
-  "name": "Films & Séries",
+  "name": "Films & Séries (général)",
   "emoji": "🎬",
-  "version": 1,
+  "version": 4,
   "subthemes": [
     {
       "id": "sagas",
@@ -165,7 +165,7 @@
           "civil": "Le Cinquième Élément",
           "imposteur": "Blade Runner",
           "difficulty": 3,
-          "niche": 3,
+          "niche": 2,
           "civil_en": "The Fifth Element",
           "imposteur_en": "Blade Runner"
         },
@@ -208,6 +208,30 @@
           "niche": 3,
           "civil_en": "The Silence of the Lambs",
           "imposteur_en": "Se7en"
+        },
+        {
+          "civil": "Fight Club",
+          "imposteur": "American Psycho",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Fight Club",
+          "imposteur_en": "American Psycho"
+        },
+        {
+          "civil": "Donnie Darko",
+          "imposteur": "Eternal Sunshine of the Spotless Mind",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Donnie Darko",
+          "imposteur_en": "Eternal Sunshine of the Spotless Mind"
+        },
+        {
+          "civil": "Requiem for a Dream",
+          "imposteur": "Trainspotting",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Requiem for a Dream",
+          "imposteur_en": "Trainspotting"
         }
       ]
     },
@@ -329,7 +353,7 @@
           "imposteur_en": "The Last Kingdom"
         },
         {
-          "civil": "Wednesday",
+          "civil": "Mercredi",
           "imposteur": "La Famille Addams",
           "difficulty": 2,
           "niche": 1,
@@ -415,6 +439,22 @@
           "niche": 2,
           "civil_en": "House of the Dragon",
           "imposteur_en": "The Rings of Power"
+        },
+        {
+          "civil": "Twin Peaks",
+          "imposteur": "True Detective",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "Twin Peaks",
+          "imposteur_en": "True Detective"
+        },
+        {
+          "civil": "The Wire",
+          "imposteur": "Oz",
+          "difficulty": 2,
+          "niche": 3,
+          "civil_en": "The Wire",
+          "imposteur_en": "Oz"
         }
       ]
     },
@@ -622,213 +662,14 @@
           "niche": 1,
           "civil_en": "Buzz Lightyear",
           "imposteur_en": "Woody"
-        }
-      ]
-    },
-    {
-      "id": "disney",
-      "name": "Disney & Animation",
-      "crossMixable": true,
-      "pairs": [
+        },
         {
-          "civil": "La Reine des Neiges",
-          "imposteur": "Raiponce",
+          "civil": "Tyler Durden",
+          "imposteur": "Patrick Bateman",
           "difficulty": 2,
-          "niche": 1,
-          "civil_en": "Frozen",
-          "imposteur_en": "Tangled"
-        },
-        {
-          "civil": "Le Roi Lion",
-          "imposteur": "Bambi",
-          "difficulty": 3,
-          "niche": 1,
-          "civil_en": "The Lion King",
-          "imposteur_en": "Bambi"
-        },
-        {
-          "civil": "Aladdin",
-          "imposteur": "Hercule",
-          "difficulty": 3,
-          "niche": 1,
-          "civil_en": "Aladdin",
-          "imposteur_en": "Hercules"
-        },
-        {
-          "civil": "Cendrillon",
-          "imposteur": "Blanche-Neige",
-          "difficulty": 2,
-          "niche": 1,
-          "civil_en": "Cinderella",
-          "imposteur_en": "Snow White"
-        },
-        {
-          "civil": "Toy Story",
-          "imposteur": "Cars",
-          "difficulty": 2,
-          "niche": 1,
-          "civil_en": "Toy Story",
-          "imposteur_en": "Cars"
-        },
-        {
-          "civil": "Là-haut",
-          "imposteur": "Vice-Versa",
-          "difficulty": 3,
-          "niche": 1,
-          "civil_en": "Up",
-          "imposteur_en": "Inside Out"
-        },
-        {
-          "civil": "Le Monde de Nemo",
-          "imposteur": "Le Monde de Dory",
-          "difficulty": 1,
-          "niche": 1,
-          "civil_en": "Finding Nemo",
-          "imposteur_en": "Finding Dory"
-        },
-        {
-          "civil": "Moana",
-          "imposteur": "Vaiana",
-          "difficulty": 1,
-          "niche": 2,
-          "civil_en": "Moana",
-          "imposteur_en": "Vaiana"
-        },
-        {
-          "civil": "Mulan",
-          "imposteur": "Pocahontas",
-          "difficulty": 2,
-          "niche": 1,
-          "civil_en": "Mulan",
-          "imposteur_en": "Pocahontas"
-        },
-        {
-          "civil": "Les Indestructibles",
-          "imposteur": "Big Hero 6",
-          "difficulty": 3,
-          "niche": 1,
-          "civil_en": "The Incredibles",
-          "imposteur_en": "Big Hero 6"
-        },
-        {
-          "civil": "Zootopie",
-          "imposteur": "Robin des Bois",
-          "difficulty": 3,
-          "niche": 2,
-          "civil_en": "Zootopia",
-          "imposteur_en": "Robin Hood"
-        },
-        {
-          "civil": "Raya",
-          "imposteur": "Encanto",
-          "difficulty": 3,
-          "niche": 2,
-          "civil_en": "Raya",
-          "imposteur_en": "Encanto"
-        },
-        {
-          "civil": "La Belle et la Bête",
-          "imposteur": "La Princesse et la Grenouille",
-          "difficulty": 2,
-          "niche": 1,
-          "civil_en": "Beauty and the Beast",
-          "imposteur_en": "The Princess and the Frog"
-        },
-        {
-          "civil": "Ratatouille",
-          "imposteur": "Cars",
-          "difficulty": 3,
-          "niche": 1,
-          "civil_en": "Ratatouille",
-          "imposteur_en": "Cars"
-        },
-        {
-          "civil": "Kung Fu Panda",
-          "imposteur": "Madagascar",
-          "difficulty": 2,
-          "niche": 1,
-          "civil_en": "Kung Fu Panda",
-          "imposteur_en": "Madagascar"
-        },
-        {
-          "civil": "Dragons",
-          "imposteur": "Le Voyage d'Arlo",
-          "difficulty": 3,
-          "niche": 2,
-          "civil_en": "How to Train Your Dragon",
-          "imposteur_en": "The Good Dinosaur"
-        },
-        {
-          "civil": "Wall-E",
-          "imposteur": "Les Mondes de Ralph",
-          "difficulty": 3,
-          "niche": 1,
-          "civil_en": "Wall-E",
-          "imposteur_en": "Wreck-It Ralph"
-        },
-        {
-          "civil": "Coco",
-          "imposteur": "Le Livre de la Vie",
-          "difficulty": 3,
-          "niche": 2,
-          "civil_en": "Coco",
-          "imposteur_en": "The Book of Life"
-        },
-        {
-          "civil": "Tarzan",
-          "imposteur": "Le Livre de la Jungle",
-          "difficulty": 2,
-          "niche": 1,
-          "civil_en": "Tarzan",
-          "imposteur_en": "The Jungle Book"
-        },
-        {
-          "civil": "Peter Pan",
-          "imposteur": "Pinocchio",
-          "difficulty": 2,
-          "niche": 1,
-          "civil_en": "Peter Pan",
-          "imposteur_en": "Pinocchio"
-        },
-        {
-          "civil": "Les Aristochats",
-          "imposteur": "Les 101 Dalmatiens",
-          "difficulty": 2,
-          "niche": 2,
-          "civil_en": "The Aristocats",
-          "imposteur_en": "101 Dalmatians"
-        },
-        {
-          "civil": "Rebelle",
-          "imposteur": "Merida",
-          "difficulty": 2,
-          "niche": 2,
-          "civil_en": "Brave",
-          "imposteur_en": "Merida"
-        },
-        {
-          "civil": "Spirit",
-          "imposteur": "Crin-Blanc",
-          "difficulty": 3,
           "niche": 3,
-          "civil_en": "Spirit",
-          "imposteur_en": "White Mane"
-        },
-        {
-          "civil": "Shrek",
-          "imposteur": "Le Chat Potté",
-          "difficulty": 2,
-          "niche": 1,
-          "civil_en": "Shrek",
-          "imposteur_en": "Puss in Boots"
-        },
-        {
-          "civil": "Lilo et Stitch",
-          "imposteur": "Dumbo",
-          "difficulty": 3,
-          "niche": 1,
-          "civil_en": "Lilo and Stitch",
-          "imposteur_en": "Dumbo"
+          "civil_en": "Tyler Durden",
+          "imposteur_en": "Patrick Bateman"
         }
       ]
     }

@@ -2,14 +2,8 @@
   "id": "dragon_ball",
   "name": "Dragon Ball",
   "emoji": "🐉",
-  "version": 1,
+  "version": 2,
   "subthemes": [
-    {
-      "id": "general",
-      "name": "Général",
-      "crossMixable": false,
-      "pairs": []
-    },
     {
       "id": "sub_1z11xo",
       "name": "Personnages",
@@ -239,7 +233,7 @@
         },
         {
           "civil": "Namek",
-          "imposteur": "Vegeta (planète)",
+          "imposteur": "Planète Vegeta",
           "difficulty": 2,
           "niche": 3,
           "civil_en": "Namek",
@@ -260,30 +254,6 @@
           "niche": 3,
           "civil_en": "Tournament of Power",
           "imposteur_en": "World Martial Arts Tournament"
-        },
-        {
-          "civil": "Senzu",
-          "imposteur": "Capsule",
-          "difficulty": 2,
-          "niche": 3,
-          "civil_en": "Senzu Bean",
-          "imposteur_en": "Capsule"
-        },
-        {
-          "civil": "Le Scouter",
-          "imposteur": "Le Sabre Z",
-          "difficulty": 3,
-          "niche": 3,
-          "civil_en": "Scouter",
-          "imposteur_en": "Z Sword"
-        },
-        {
-          "civil": "Capsule Corp",
-          "imposteur": "Le Commando Ginyu",
-          "difficulty": 3,
-          "niche": 3,
-          "civil_en": "Capsule Corp",
-          "imposteur_en": "Ginyu Force"
         },
         {
           "civil": "La Salle de l'Esprit et du Temps",

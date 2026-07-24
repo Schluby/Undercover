@@ -3,81 +3,145 @@
   "themes": [
     {
       "id": "anime",
-      "name": "Animé",
+      "name": "Animés (général)",
       "emoji": "🎌",
-      "version": 2,
+      "version": 3,
       "url": "themes/anime.json",
       "pairs": 70
+    },
+    {
+      "id": "animes_cultes",
+      "name": "Animés Cultes",
+      "emoji": "💎",
+      "version": 1,
+      "url": "themes/animes_cultes.json",
+      "pairs": 30
+    },
+    {
+      "id": "attack_on_titan",
+      "name": "L'Attaque des Titans",
+      "emoji": "🗡️",
+      "version": 1,
+      "url": "themes/attack_on_titan.json",
+      "pairs": 26
+    },
+    {
+      "id": "disney",
+      "name": "Disney",
+      "emoji": "🏰",
+      "version": 1,
+      "url": "themes/disney.json",
+      "pairs": 30
     },
     {
       "id": "dragon_ball",
       "name": "Dragon Ball",
       "emoji": "🐉",
-      "version": 1,
+      "version": 2,
       "url": "themes/dragon_ball.json",
-      "pairs": 34
+      "pairs": 31
+    },
+    {
+      "id": "dreamworks",
+      "name": "DreamWorks",
+      "emoji": "🌙",
+      "version": 1,
+      "url": "themes/dreamworks.json",
+      "pairs": 24
+    },
+    {
+      "id": "films_animation",
+      "name": "Films d'Animation",
+      "emoji": "🌸",
+      "version": 1,
+      "url": "themes/films_animation.json",
+      "pairs": 24
     },
     {
       "id": "films_series",
-      "name": "Films & Séries",
+      "name": "Films & Séries (général)",
       "emoji": "🎬",
-      "version": 1,
+      "version": 4,
       "url": "themes/films_series.json",
-      "pairs": 100
+      "pairs": 81
     },
     {
       "id": "general",
       "name": "Général",
       "emoji": "🌍",
-      "version": 2,
+      "version": 3,
       "url": "themes/general.json",
-      "pairs": 393
+      "pairs": 343
     },
     {
       "id": "harry_potter",
       "name": "Harry Potter",
       "emoji": "🧙",
-      "version": 1,
+      "version": 3,
       "url": "themes/harry_potter.json",
-      "pairs": 42
+      "pairs": 50
+    },
+    {
+      "id": "hunter_x_hunter",
+      "name": "Hunter x Hunter",
+      "emoji": "🎣",
+      "version": 1,
+      "url": "themes/hunter_x_hunter.json",
+      "pairs": 24
     },
     {
       "id": "jeux_video",
-      "name": "Jeux Vidéo",
+      "name": "Jeux vidéo (général)",
       "emoji": "🎮",
-      "version": 1,
+      "version": 2,
       "url": "themes/jeux_video.json",
-      "pairs": 100
+      "pairs": 106
+    },
+    {
+      "id": "jujutsu_kaisen",
+      "name": "Jujutsu Kaisen",
+      "emoji": "🔮",
+      "version": 1,
+      "url": "themes/jujutsu_kaisen.json",
+      "pairs": 24
     },
     {
       "id": "league_of_legends",
       "name": "League of Legends",
       "emoji": "⚔️",
-      "version": 2,
+      "version": 3,
       "url": "themes/league_of_legends.json",
-      "pairs": 139
+      "pairs": 73
     },
     {
       "id": "lotr",
       "name": "Seigneur des Anneaux",
       "emoji": "💍",
-      "version": 1,
+      "version": 3,
       "url": "themes/lotr.json",
-      "pairs": 50
+      "pairs": 48
+    },
+    {
+      "id": "marvel",
+      "name": "Marvel",
+      "emoji": "🦸",
+      "version": 1,
+      "url": "themes/marvel.json",
+      "pairs": 26
     },
     {
       "id": "minecraft",
       "name": "Minecraft",
       "emoji": "⛏️",
-      "version": 2,
+      "version": 3,
       "url": "themes/minecraft.json",
-      "pairs": 138
+      "pairs": 89
     },
     {
       "id": "naruto",
       "name": "Naruto",
       "emoji": "🍥",
-      "version": 1,
+      "version": 2,
       "url": "themes/naruto.json",
       "pairs": 35
     },
@@ -85,17 +149,41 @@
       "id": "one_piece",
       "name": "One Piece",
       "emoji": "🏴‍☠️",
-      "version": 2,
+      "version": 3,
       "url": "themes/one_piece.json",
-      "pairs": 102
+      "pairs": 100
+    },
+    {
+      "id": "pixar",
+      "name": "Pixar",
+      "emoji": "💡",
+      "version": 1,
+      "url": "themes/pixar.json",
+      "pairs": 24
     },
     {
       "id": "pokemon",
       "name": "Pokémon",
       "emoji": "⚡",
-      "version": 1,
+      "version": 2,
       "url": "themes/pokemon.json",
-      "pairs": 35
+      "pairs": 34
+    },
+    {
+      "id": "star_wars",
+      "name": "Star Wars",
+      "emoji": "🌌",
+      "version": 1,
+      "url": "themes/star_wars.json",
+      "pairs": 30
+    },
+    {
+      "id": "zelda",
+      "name": "The Legend of Zelda",
+      "emoji": "🗡️",
+      "version": 1,
+      "url": "themes/zelda.json",
+      "pairs": 24
     }
   ]
 }
